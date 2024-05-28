@@ -21,8 +21,8 @@ pygame==2.5.2
 Pygments==2.18.0
 pyinstaller==6.7.0
 pyinstaller-hooks-contrib==2024.6
-pypiwin32==223
-pywin32==306
+pypiwin32
+pywin32
 pywin32-ctypes==0.2.2
 requests==2.32.2
 setuptools==70.0.0
