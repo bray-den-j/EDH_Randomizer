@@ -1,0 +1,964 @@
+name,rarity,faceConvertedManaCost,colors,originalType,printings,uuid
+Arcanis the Omnipotent,rare,,U,Legendary Creature - Wizard,"10E, C17, DDN, DMR, EMA, ONS, PRM, SLD, WC03",6f08f7f6-ecfb-584f-ae7a-c6e4d9c4da35
+"Molimo, Maro-Sorcerer",rare,,G,Legendary Creature - Elemental,"10E, ARC, CMM, CMR, DPA, INV, PS11",52c9439c-c1b8-565e-bd8f-9e3203d7a051
+"Emrakul, the Aeons Torn",mythic,,,Legendary Creature — Eldrazi,"2X2, MM2, P10, PLST, PPRO, PRM, PROE, PUMA, ROE, UMA",5169592e-dd93-535a-b5af-51c9aaccbf36
+"Kozilek, Butcher of Truth",mythic,,,Legendary Creature — Eldrazi,"2X2, MM2, PLST, PRM, PUMA, ROE, UMA",14e24424-15a0-5b28-817f-de8c72748469
+"Mikaeus, the Lunarch",rare,,W,Legendary Creature — Human Cleric,"2X2, CLB, ISD, JMP, MIC, MOC, V11",4bc2ee77-513b-54b8-9abc-a80b264ec274
+"Talrand, Sky Summoner",rare,,U,Legendary Creature — Merfolk Wizard,"2X2, C15, C19, C20, C21, CMM, DDS, JMP, M13, OTC, PANA, PLST, TSR, UMA",3ee7784a-5e81-5ddd-9e18-573d6b9b1df7
+"Venser, Shaper Savant",rare,,U,Legendary Creature — Human Wizard,"2X2, FUT, MM3, PLST, TSR, V13",752586b8-e40d-59df-914a-848fe4bb379c
+"Yahenni, Undying Partisan",rare,,B,Legendary Creature — Aetherborn Vampire,"2X2, AER, CMM, KLR, LCC, PAER",85b3ac40-66de-5d30-bf39-6b2838d35e89
+"Alesha, Who Smiles at Death",rare,,R,Legendary Creature — Human Warrior,"2X2, C16, C20, DMC, EA1, FRF, PFRF, PLST, SLD, TSR",7599dbf5-3ea2-5b62-9984-d884f89133d9
+"Rishkar, Peema Renegade",rare,,G,Legendary Creature — Elf Druid,"2X2, AER, CMM, JMP, KLR, MOC, NCC, NEC, PAER, SCD",9c595888-9b05-59e6-94e6-4a4cbcba5057
+"Animar, Soul of Elements",mythic,,"G, R, U",Legendary Creature — Elemental,"2X2, A25, CMD, OCMD, PLST, PZ1",9592bbd9-2a3b-59ce-abdd-2affa993270a
+"Atla Palani, Nest Tender",rare,,"G, R, W",Legendary Creature — Human Shaman,"2X2, C19, DMC, SLD",16979287-4b12-5381-a27f-d7f61fede09b
+"Aurelia, the Warleader",mythic,,"R, W",Legendary Creature — Angel,"2X2, GK1, GTC, MUL, V15",cdf091f2-2591-5bb5-bbc9-eccd7f3b8e3a
+"Doran, the Siege Tower",rare,,"B, G, W",Legendary Creature — Treefolk Shaman,"2X2, J17, LRW, LTC, PCMP, PLST, PRM, V11",7cb55053-0e06-5bd3-a2f2-8c994da4abef
+Dragonlord Dromoka,mythic,,"G, W",Legendary Creature — Elder Dragon,"2X2, DTK, PDTK, PLST, PRM",ced75dfe-2ce8-5f5e-9656-ff0460d1c527
+"Elenda, the Dusk Rose",mythic,,"B, W",Legendary Creature — Vampire Knight,"2X2, LCC, PLST, PRIX, PRM, RIX, SLD",477fefc7-8c5d-5e82-a0ff-d550125274e4
+"Ezuri, Claw of Progress",mythic,,"G, U",Legendary Creature — Phyrexian Elf Warrior,"2X2, C15, MUL, OC15, PJ21, PLST, PZ1",0f327954-9e82-50d6-95d5-5f6388e443e5
+Firesong and Sunspeaker,rare,,"R, W",Legendary Creature — Minotaur Cleric,"2X2, DOM, MUL, PZ2",8009ba0e-a15b-503a-b204-9b880602ca4d
+"Ghave, Guru of Spores",mythic,,"B, G, W",Legendary Creature — Fungus Shaman,"2X2, C16, CM2, CMD, OCMD, PLST, PZ1, SLD",95488514-0f79-5dd6-b4a3-18a0b387ba50
+Grand Arbiter Augustin IV,rare,,"U, W",Legendary Creature — Human Advisor,"2X2, DIS, MMA, PJ21, PLST, PRM, SLD",d9f634fb-ddd4-5284-9959-a9dfda961e0a
+"Judith, the Scourge Diva",rare,,"B, R",Legendary Creature — Human Shaman,"2X2, CMM, MUL, PRNA, RNA",f6238e61-70de-5c8f-9381-7d19f797ad76
+Kaalia of the Vast,mythic,,"B, R, W",Legendary Creature — Human Cleric,"2X2, 2XM, CM1, CMA, CMD, MH3, OCMD, PRM, PZ1",ce143ef3-0096-5b2d-80a0-93ea338b279a
+"Karador, Ghost Chieftain",mythic,,"B, G, W",Legendary Creature — Centaur Spirit,"2X2, CMD, CMM, CMR, J14, OCMD, PLST, PRM, SLD",f119390e-0e74-5172-91f2-1360a641b20c
+Mizzix of the Izmagnus,mythic,,"R, U",Legendary Creature — Goblin Wizard,"2X2, C15, CMM, OC15, PJ21, PLST, PZ1",f0710344-ccac-5f9b-8466-81c8e784a50e
+"Muldrotha, the Gravetide",mythic,,"B, G, U",Legendary Creature — Elemental Avatar,"2X2, CMR, DOM, PDOM, PLST, PRM",88a33a30-2171-5877-89dd-9a030cbd5dd9
+Roon of the Hidden Realm,rare,,"G, U, W",Legendary Creature — Rhino Soldier,"2X2, C13, CMA, OC13, PLST",2f8ecb6e-ebc2-5bb3-884d-41dc84cf55b9
+"Sedris, the Traitor King",mythic,,"B, R, U",Legendary Creature — Zombie Warrior,"2X2, ALA, PLST, PRM",428d724c-0a3b-52a2-827c-3f3d1199a1e2
+"Skullbriar, the Walking Grave",rare,,"B, G",Legendary Creature — Zombie Elemental,"2X2, CM2, CMD, PCMD, PLST",e3fc013b-c7f7-5c56-8cee-02542be2de50
+"Ulasht, the Hate Seed",rare,,"G, R",Legendary Creature — Hellion Hydra,"2X2, GK2, GPT, NEC",4c5e4a6c-ce15-5734-a4db-c40ef64e55bf
+"Varina, Lich Queen",rare,,"B, U, W",Legendary Creature — Zombie Wizard,"2X2, C18, PZ2, SLD",85dc658b-3746-50fa-8518-74c8c9c104eb
+"Wasitora, Nekoru Queen",rare,,"B, G, R",Legendary Creature — Cat Dragon,"2X2, C17, PLST, PZ2",90d59752-59f4-5119-99c9-75503e3e1915
+Zur the Enchanter,rare,,"B, U, W",Legendary Creature — Human Wizard,"2X2, CMR, CSP, DMR, J16, MM3, OCM1, PCEL, PRM, SLD",5b2886f1-1614-52a1-a141-c5e019aa0425
+"Avacyn, Angel of Hope",mythic,,W,Legendary Creature — Angel,"2XM, AVR, CMM, HA6, IMA, J17, PHEL, PRM, SIS, V15",2818f287-8403-5217-9a59-c11af2ab77e1
+"Kemba, Kha Regent",rare,,W,Legendary Creature — Cat Cleric,"2XM, C14, C17, CMM, SOM",b270b745-70c2-5ad7-9189-91a4f1b19230
+Arcum Dagsson,mythic,,U,Legendary Creature — Human Artificer,"2XM, CSP",3110237b-e998-5a6a-9767-f6bcc0b177ab
+"Braids, Conjurer Adept",rare,,U,Legendary Creature — Human Wizard,"2XM, CMM, PLC, PLST",99eb6e1c-b52b-5103-9669-95dcc19cad34
+"Geth, Lord of the Vault",mythic,,B,Legendary Creature — Zombie,"2XM, BRC, C19, SOM",b6d215d2-014f-5af7-93fd-ce6f7f768d88
+"Skithiryx, the Blight Dragon",mythic,,B,Legendary Creature — Dragon Skeleton,"2XM, MUL, PLST, SOM",0ee7621b-b728-5ef0-9536-e2887896acf0
+"Godo, Bandit Warlord",rare,,R,Legendary Creature — Human Barbarian,"2XM, C16, CHK, CMM, OCM1, SLD",605e26ed-436d-5390-8728-be5a79f8dd47
+Tuktuk the Explorer,rare,,R,Legendary Creature — Goblin,"2XM, C14, CM2, PLST, ROE",8a787bb5-3d1e-5ed4-a07b-99801816b176
+"Arixmethes, Slumbering Isle",rare,,"G, U",Legendary Creature — Kraken,"2XM, C18, MUL, PZ2",3afd5bc6-d872-5502-b230-067159472137
+"Atraxa, Praetors' Voice",mythic,,"B, G, U, W",Legendary Creature — Angel Horror,"2XM, C16, CM2, MUL, OC16, PRM, PZ2, SLD",09472571-34c7-5636-963c-a8ff6aa96f28
+Geist of Saint Traft,mythic,,"U, W",Legendary Creature — Spirit Cleric,"2XM, DDQ, ISD, PRM, SIS, VOC, WMC",c788ba7a-7a54-5ff3-83d8-fa084b69e632
+"Hanna, Ship's Navigator",rare,,"U, W",Legendary Creature — Human Artificer,"2XM, A25, C16, CMM, INV, J14, NEC, PANA, PRM",839a69a1-7a89-5043-aaa6-d47ecb7118cf
+"Jhoira, Weatherlight Captain",rare,,"R, U",Legendary Creature — Human Artificer,"2XM, BRC, DOM, PDOM, SLD",d57c1a70-972f-51ef-ab7f-5133763c4490
+"Karrthus, Tyrant of Jund",mythic,,"B, G, R",Legendary Creature — Dragon,"2XM, ARB, OCM1, PLST, SLD",10ca5b9b-5c29-5e9e-a0ad-5292540574c8
+"Mazirek, Kraul Death Priest",rare,,"B, G",Legendary Creature — Insect Shaman,"2XM, C15, CMA, PZ1, SLD",eaaf9cc5-6175-59da-b661-8f77e79a5fbc
+Rhys the Redeemed,rare,,"G, W",Legendary Creature — Elf Warrior,"2XM, PANA, PLST, SHM",5997ef7e-9611-529d-8a06-0e76783cccde
+Riku of Two Reflections,mythic,,"G, R, U",Legendary Creature — Human Wizard,"2XM, CMD, J14, OCMD, PRM",a8d8e790-8c57-5104-9915-6f69a00d335b
+The Scarab God,mythic,,"B, U",Legendary Creature — God,"2XM, AKR, CMM, HOU, MP2, PHOU, SLD",eed81bd3-096f-5757-9516-0c86485953d4
+"Vish Kal, Blood Arbiter",rare,,"B, W",Legendary Creature — Vampire,"2XM, CMD, PCMD",a637874c-282a-5d6f-8ba0-1160880a7949
+"Akroma, Angel of Wrath",mythic,,W,Legendary Creature — Angel,"A25, C20, DDC, DVD, LGN, SLD, TSB, V15",83d4a1e2-c245-5f32-9183-bd9900f62aac
+"Darien, King of Kjeldor",rare,,W,Legendary Creature — Human Soldier,"A25, CSP, MKC, PLST",4663ad3c-9657-5265-967f-196d4180652c
+"Thalia, Guardian of Thraben",rare,,W,Legendary Creature — Human Soldier,"A25, DBL, DKA, HA2, MUL, PRM, PVOW, SLD, VOW, WMC",bb57ece7-d091-5050-8ac4-a7a7dcfc87b1
+Ihsan's Shade,uncommon,,B,Legendary Creature — Shade Knight,"A25, ATH, HML, ME2, PHJ, PLST, PTC",ca565281-e390-5763-9cd7-3a28816fe0d5
+"Akroma, Angel of Fury",mythic,,R,Legendary Creature — Angel,"A25, CMA, CMD, MKC, PLC, SLD, TSR, V15",f4e81d97-3c32-5a72-92a2-72283a999298
+"Zada, Hedron Grinder",uncommon,,R,Legendary Creature — Goblin Ally,"A25, BFZ, CMM, MUL, PBFZ",30d4d791-2d56-537e-86c8-e3d24f8d406b
+"Gisela, Blade of Goldnight",mythic,,"R, W",Legendary Creature — Angel,"A25, AVR, C15, CM2, CMM, MKC, PHEL, PLST, SLD",2ca198e7-8ea4-50ee-81c3-bdf170514d14
+"Grenzo, Dungeon Warden",rare,,"B, R",Legendary Creature — Goblin Rogue,"A25, CNS, PLST, SLD, TSR, VMA",0d1ebaf1-3f77-5d10-876b-a3ba4b133f34
+Nicol Bolas,rare,,"B, R, U",Legendary Creature — Elder Dragon,"A25, BCHR, CHR, DRB, LEG, ME3, PLST, PMDA, SLD, TSB",2503411e-e8c0-509a-8284-98c62025dd3d
+"Niv-Mizzet, the Firemind",rare,,"R, U",Legendary Creature — Dragon Wizard,"A25, C17, C20, DDJ, DRB, GK1, GPT, MM2, P30A, PCMP, PRM, RVR",a52083a9-ae15-5c54-8fbd-7d63534fb5b2
+"Prossh, Skyraider of Kher",mythic,,"B, G, R",Legendary Creature — Dragon,"A25, C13, CMR, OC13, PLST, PRM",cee2f9b2-9147-52ab-bb64-86320112d376
+"Sram, Senior Edificer",rare,,W,Legendary Creature — Dwarf Advisor,"AER, AFC, CMR, KLR, MUL, NEC, PAER, SLD, TSR",b70763ed-0964-50e2-ac75-8063f4895e4c
+"Baral, Chief of Compliance",rare,,U,Legendary Creature — Human Wizard,"AER, KLR, MUL, PAER, PLST, SLD, TSR",0730e14e-7a5d-57de-a9fb-f6b761376a9d
+"Kari Zev, Skyship Raider",rare,,R,Legendary Creature — Human Pirate,"AER, DMC, J22, KLR, LCC, PAER, PLST",e3f86614-17b1-51b3-87ec-b223f9eca7aa
+"Galea, Kindler of Hope",mythic,,"G, U, W",Legendary Creature — Elf Knight,"AFC, OAFC, PRM",0ccd891f-10e7-5f42-abe3-3f27436986b2
+"Prosper, Tome-Bound",mythic,,"B, R",Legendary Creature — Tiefling Warlock,"AFC, HBG, OAFC, PRM",f623bef0-0728-5ade-84a0-c8ccee389a19
+Sefris of the Hidden Ways,mythic,,"B, U, W",Legendary Creature — Human Wizard,"AFC, OAFC",b422cc1e-3720-53d7-8d33-1e0e37900034
+"Vrondiss, Rage of Ancients",mythic,,"G, R",Legendary Creature — Dragon Barbarian,"AFC, OAFC",17d69278-3d68-5f93-8d48-27e8181dbe59
+"Minn, Wily Illusionist",rare,,U,Legendary Creature — Gnome Wizard,AFC,3f7208de-bf7b-533d-84a8-9fa043648573
+"Lorcan, Warlock Collector",rare,,B,Legendary Creature — Devil,AFC,9dc7d167-b7d8-5264-9064-f923c06f2d0d
+Catti-brie of Mithral Hall,rare,,"G, W",Legendary Creature — Human Archer,"AFC, HBG",f591c1c2-4a9e-5c47-a6dc-5406bb044550
+"Karazikar, the Eye Tyrant",mythic,,"B, R",Legendary Creature — Beholder,AFC,24bb09bc-e1b6-5769-a3c8-e04f646dd3e3
+"Klauth, Unrivaled Ancient",mythic,,"G, R",Legendary Creature — Dragon,AFC,a55737f1-ab30-5bd1-8541-47f89d8563d9
+Nihiloor,mythic,,"B, U, W",Legendary Creature — Horror,AFC,525abf1c-03f8-5c13-bfff-792afbcd09b7
+"Storvald, Frost Giant Jarl",mythic,,"G, U, W",Legendary Creature — Giant,AFC,b22cc167-619b-56f0-ab13-3eef01be2fbc
+Wulfgar of Icewind Dale,rare,,"G, R",Legendary Creature — Human Barbarian,"AFC, PRM",ff547ce6-4562-5625-8104-83b45ec8de55
+"Gonti, Lord of Luxury",rare,,B,Legendary Creature — Aetherborn Rogue,"AFC, CLB, CMM, JMP, KLD, KLR, OTC, PKLD, PLST, SLD, ZNC",cf56c927-99e6-54d4-96b0-6408fa3c53ea
+"Etali, Primal Storm",rare,,R,Legendary Creature — Elder Dinosaur,"AFC, C20, C21, CLB, DMC, JMP, LCC, MKC, NCC, PLST, PRES, PRIX, RIX, SLD, TSR",4e15698f-62f8-5b6d-90f3-25d85b4c9553
+"Atarka, World Render",rare,,"G, R",Legendary Creature — Dragon,"AFC, C17, FRF, PFRF, PRES, SCD",86d3b5a6-074c-50cd-be07-48b3318aace6
+Oketra the True,mythic,,W,Legendary Creature - God,"AKH, AKR, MP2, PAKH",aae892ba-cd35-549d-bc99-9e21ec77d422
+Kefnet the Mindful,mythic,,U,Legendary Creature - God,"AKH, AKR, MP2, PAKH",c937b801-ba50-5506-bd7c-73a16aba7644
+Bontu the Glorified,mythic,,B,Legendary Creature - God,"AKH, AKR, MP2, PAKH",952ca62d-4d6f-5270-ad1a-b35cf48abd6f
+Hazoret the Fervent,mythic,,R,Legendary Creature - God,"AKH, AKR, MP2, PAKH",30e45bd0-8fa1-51bc-a968-443e225e0a1e
+Rhonas the Indomitable,mythic,,G,Legendary Creature - God,"AKH, AKR, J22, MP2, PAKH",58ab9067-e604-5cf8-b4f1-8f2282398399
+"Hapatra, Vizier of Poisons",rare,,"B, G",Legendary Creature - Human Cleric,"AKH, AKR, PAKH",9e98ed00-0adc-57b5-a0da-2d0b0967b949
+"Neheb, the Worthy",rare,,"B, R",Legendary Creature - Minotaur Warrior,"AKH, AKR, PAKH",9ed535d4-d77f-5553-94bf-8c7e1073ce32
+"Samut, Voice of Dissent",mythic,,"G, R",Legendary Creature - Human Warrior,"AKH, AKR, PAKH, SLD",afad7b5a-566b-53dc-a3ba-7b5d143c6a7d
+"Temmet, Vizier of Naktamun",rare,,"U, W",Legendary Creature - Human Cleric,"AKH, AKR, PAKH",923ad903-d63c-5555-b874-9c6848bd73f8
+"Unesh, Criosphinx Sovereign",mythic,,U,Legendary Creature — Sphinx,"AKR, HOU, PHOU",6c601206-4cd5-5794-bc0b-2c9c592b8cee
+"Razaketh, the Foulblooded",mythic,,B,Legendary Creature — Demon,"AKR, CMM, HOU, PHOU, SLD",a7b919a9-2d6a-5f3d-8c32-cbe6626a8ae9
+"Neheb, the Eternal",mythic,,R,Legendary Creature — Zombie Minotaur Warrior,"AKR, CMM, HOU, MKC, PHOU",af1c9be1-6db3-56b0-b2f6-e0da9f7f01c3
+The Locust God,mythic,,"R, U",Legendary Creature — God,"AKR, C20, HOU, MOC, MP2, PHOU, PLST, SLD",8f3866f6-b196-5989-938c-6dc5d618bfcf
+The Scorpion God,mythic,,"B, R",Legendary Creature — God,"AKR, HOU, MP2, PHOU, SLD",cea7739e-c57c-5a12-92ab-f9f4e6c565ad
+Kresh the Bloodbraided,mythic,,"B, G, R",Legendary Creature - Human Warrior,"ALA, NCC, V11",59f46ccf-da29-5e0d-9b6d-a32132e1bf4a
+"Jenara, Asura of War",mythic,,"G, U, W",Legendary Creature — Angel,"ARB, NCC, V15",2b09d1ec-4ba1-5765-81de-17d134724c01
+"Ryusei, the Falling Star",rare,,R,Legendary Creature — Dragon Spirit,"ARC, C17, CHK, CLB, IMA, MMA, PCHK, PLST, PRM",108efee1-cbf9-5bc1-a9d5-4799d080eb4b
+"Kamahl, Fist of Krosa",rare,,G,Legendary Creature — Human Druid,"ARC, DMR, ONS",5b79befc-6798-5105-ad72-e3457c51be75
+Griselbrand,mythic,,B,Legendary Creature — Demon,"AVR, MM3, PGPX, PHEL, PRM, SIS, SLD",4917126a-6d6a-5084-af17-59784e760b06
+"Bruna, Light of Alabaster",mythic,,"U, W",Legendary Creature — Angel,"AVR, C18, PHEL, SLD",325f9795-56e3-559c-acab-6162a3e23096
+"Sigarda, Host of Herons",mythic,,"G, W",Legendary Creature — Angel,"AVR, PHEL, PUMA, SIS, UMA",9ee79691-5b8c-516a-84f1-3c20818d5605
+Virtus the Veiled,rare,,B,Legendary Creature — Azra Assassin,"BBD, PBBD, PLST",d04dc80f-511f-5784-9f36-a1391ceeaa47
+Gorm the Great,rare,,G,Legendary Creature — Giant Warrior,"BBD, PBBD, PLST",53f1333b-c3f5-55e4-99c4-7b4efedb5fd4
+"Najeela, the Blade-Blossom",mythic,,R,Legendary Creature — Human Warrior,"BBD, CMR, PRM, SLD",ec19ecad-a4a6-534d-93b4-2dddea3d2e8a
+"Gwafa Hazid, Profiteer",rare,,"U, W",Legendary Creature — Human Rogue,"BBD, C16, CON",08cf7703-29fd-5010-80cc-df9609d0a7dd
+"Drana, Liberator of Malakir",mythic,,B,Legendary Creature — Vampire Ally,"BFZ, DMC, JMP, LCC, NCC, PBFZ",66555fc7-38c6-5c1d-863a-7642fe6e5e6d
+"Omnath, Locus of Rage",mythic,,"G, R",Legendary Creature — Elemental,"BFZ, EA3, OTC, PBFZ, PLST, SLD, ZNC",f2c042ad-bf9d-593a-bfaf-0270f8b13a6e
+"Loot, the Key to Everything",mythic,,"G, R, U",Legendary Creature — Beast Noble,BIG,e65aaef6-bb56-5a20-9bee-d6a08b6392c7
+"Brimaz, King of Oreskos",mythic,,W,Legendary Creature — Cat Soldier,"BNG, PLST, SLD",e14067e8-9800-5a96-9838-1e7635c86bfd
+Tromokratis,rare,,U,Legendary Creature — Kraken,"BNG, CMM, CMR, PBNG, PRM",38757d7d-b090-5835-b640-411f21d9fccf
+"Hokori, Dust Drinker",rare,,W,Legendary Creature - Spirit,"BOK, PLST, SLD",65e745cd-f2e9-528a-8563-01748c8d669f
+"Oyobi, Who Split the Heavens",rare,,W,Legendary Creature - Spirit,"BOK, PSAL, VOC",7963d18a-6f55-5173-b56b-1c24e4674598
+Patron of the Moon,rare,,U,Legendary Creature - Spirit,"BOK, PLST",07d85d05-3b69-5ec6-a3a3-579f39634bb6
+"Ink-Eyes, Servant of Oni",rare,,B,Legendary Creature - Rat Ninja,"BOK, PBOK, PC2, PCA, PLST, PRM, SLD, V13",ab8486a9-7eaa-5c49-a8cc-8aa32eeb13dc
+Fumiko the Lowblood,rare,,R,Legendary Creature - Human Samurai,"BOK, C15, C20, CM2",27865a76-588b-5b9b-a2c7-97fb59d36ee6
+Heartless Hidetsugu,rare,,R,Legendary Creature - Ogre Shaman,"BOK, CMM, CNS, PLST, SLD",ddc1705d-2f11-5413-bc7a-89237fe362a0
+Patron of the Akki,rare,,R,Legendary Creature - Spirit,"BOK, PLST",4ec8baf0-5481-5917-9a46-6d868ad41dfc
+"Mishra, Eminent One",mythic,,"B, R, U",Legendary Creature — Human Artificer,"BRC, PRM",f8073c59-0833-5ab6-9e07-e1a55867fe04
+"Urza, Chief Artificer",mythic,,"B, U, W",Legendary Creature — Human Artificer,"BRC, PRM",b82e970d-ab5b-5a2e-9333-df1faaab7b3e
+"Tawnos, Solemn Survivor",mythic,,U,Legendary Creature — Human Artificer,BRC,ce083a70-7cb2-5f51-b803-013e19350b59
+Ashnod the Uncaring,mythic,,"B, R, U",Legendary Creature — Human Artificer,"BRC, PRM",cf08de10-eeba-542e-ad88-21f3b1fff0d1
+"Sanwell, Avenger Ace",rare,,W,Legendary Creature — Human Pilot,"BRC, PRM",39acba71-1b06-55bf-b6e0-58400ff3c361
+"Farid, Enterprising Salvager",rare,,R,Legendary Creature — Human Soldier,"BRC, PRM",fe681202-9267-5415-a110-4f9dde4e15af
+"Titania, Nature's Force",mythic,,G,Legendary Creature — Elemental,"BRC, PRM",191b4470-92fa-5579-9145-4a737e691b5c
+The Archimandrite,rare,,"R, U, W",Legendary Creature — Human Advisor,"BRC, PRM",5f8348c8-b7ff-5c6b-a19f-4c12b348afeb
+"Losheel, Clockwork Scholar",rare,,W,Legendary Creature — Elephant Artificer,"BRC, C21, CMM, PRM",7ee5492f-c848-51b4-8546-d63edcf9cccf
+"Teshar, Ancestor's Apostle",rare,,W,Legendary Creature — Bird Cleric,"BRC, CMM, DMC, DOM, NEC, PDOM",cfeec721-05e6-54fe-bb1f-71e2a0415b4d
+"Emry, Lurker of the Loch",rare,,U,Legendary Creature — Merfolk Wizard,"BRC, ELD, MUL, NEC, PELD, SLC",c03c7d70-e58a-5fd7-b62e-0330910d2527
+"Muzzio, Visionary Architect",mythic,,U,Legendary Creature — Human Artificer,"BRC, CNS, VMA",23c152a3-00be-544e-adfb-8c1625dbe328
+"Padeem, Consul of Innovation",rare,,U,Legendary Creature — Vedalken Artificer,"BRC, CMM, KLD, KLR, PKLD",a09153fb-cc44-5985-b87d-5518b9b524c3
+"Sai, Master Thopterist",rare,,U,Legendary Creature — Human Artificer,"BRC, CMM, M19, NEC, PM19",9155fc2f-fcb4-5d27-99d6-56c75abaec25
+"Fain, the Broker",rare,,B,Legendary Creature — Human Warlock,"BRC, C21, OTC, PRM",25cb3012-4542-5378-8188-65a15233f982
+"Slobad, Goblin Tinkerer",rare,,R,Legendary Creature — Goblin Artificer,"BRC, C16, DST, PLST",551beb6c-a72a-5619-ad73-8b08d75a7bee
+"Alela, Artful Provocateur",mythic,,"B, U, W",Legendary Creature — Faerie Warlock,"BRC, ELD, NCC, SLD",41cedf40-6152-57da-9587-0f22aab5ef38
+"Endrek Sahr, Master Breeder",rare,,B,Legendary Creature — Human Wizard,"C13, CMM, MM2, PLST, TSP",619181ce-dec5-52ba-ac58-6d6e094e7194
+"Hua Tuo, Honored Physician",rare,,G,Legendary Creature — Human,"C13, ME3, PLST, PTK",5322072d-6d17-5c49-ba23-4da26f09ae52
+"Derevi, Empyrial Tactician",mythic,,"G, U, W",Legendary Creature — Bird Wizard,"C13, CMA, CMR, OC13, PRM",6aeb7e28-ff4a-5dfb-8da4-b898c08be82a
+"Gahiji, Honored One",mythic,,"G, R, W",Legendary Creature — Beast,"C13, NCC, OC13",d194ed19-0140-5392-8032-1bdc882946d2
+"Marath, Will of the Wild",mythic,,"G, R, W",Legendary Creature — Elemental Beast,"C13, CMR, OC13, PRM",a6d2c329-a4f2-5faf-b273-c955becd3310
+"Nekusar, the Mindrazer",mythic,,"B, R, U",Legendary Creature — Zombie Wizard,"C13, CMM, CMR, J14, OC13, PRM, SLD",d696deb5-b8b6-5b92-a5b7-6652d0972c03
+"Oloro, Ageless Ascetic",mythic,,"B, U, W",Legendary Creature — Giant Soldier,"C13, J14, OC13, PLST, PRM",4a13ab90-6b38-540a-97f4-00ad5fc5e4ee
+"Sydri, Galvanic Genius",mythic,,"B, U, W",Legendary Creature — Human Artificer,"C13, C16, OC13",c4f37a6a-c010-5193-89fe-6a9c126f025f
+Jazal Goldmane,mythic,,W,Legendary Creature — Cat Warrior,"C14, C17, CLB, CMM, DMC, PLST",d11ff604-d0f4-5ce3-a9ac-540f625e05cc
+Stitcher Geralf,mythic,,U,Legendary Creature — Human Wizard,"C14, CMM, MIC",ca999265-e3da-5517-8cb2-a25d47d7d2cb
+Ghoulcaller Gisa,mythic,,B,Legendary Creature — Human Wizard,"C14, CC2, CMM, JMP",35d1cb9e-a0a4-5e1a-baa3-d92d7d7b0bbc
+Feldon of the Third Path,mythic,,R,Legendary Creature — Human Artificer,"C14, C19, C21, CM2, J15, MOC, PLST, PRM, TSR",e813ab98-d618-5d1b-bdde-a1ae326af8da
+"Titania, Protector of Argoth",mythic,,G,Legendary Creature — Elemental,"C14, CMA, MH2, OTC, PLST, PRM, PZ1",7f4b21e4-d2b1-59d5-9657-0dd4fc706e10
+"Lorthos, the Tidemaker",mythic,,U,Legendary Creature — Octopus,"C14, CMM, PLST, ZEN",9644a48f-eca1-5c52-a7b3-c1d51b4b3282
+"Drana, Kalastria Bloodchief",rare,,B,Legendary Creature — Vampire Shaman,"C14, C17, PLST, ROE",01d8e080-b7cb-5bc0-b1cf-9b86cd65d31d
+"Ezuri, Renegade Leader",rare,,G,Legendary Creature — Elf Warrior,"C14, CMA, DDU, PLST, SOM",ff5cef23-86d3-5887-9008-8e1d75ae10cb
+"Anya, Merciless Angel",mythic,,"R, W",Legendary Creature — Angel,"C15, CM2, MKC, PZ1",48394e52-f005-5c5b-9de2-a3aafb10809b
+Daxos the Returned,mythic,,"B, W",Legendary Creature — Zombie Soldier,"C15, OC15, PLST, PZ1",7b1606ec-0156-5d7a-8e15-0e47ba18e763
+Karlov of the Ghost Council,mythic,,"B, W",Legendary Creature — Spirit Advisor,"C15, PJ21, PZ1, RVR",dddbc912-9806-5392-be14-37bd20be42e5
+"Kaseto, Orochi Archmage",mythic,,"G, U",Legendary Creature — Snake Wizard,"C15, C21, PLST, PZ1",8fa0269e-6647-5963-b660-4c497c8cb500
+Meren of Clan Nel Toth,mythic,,"B, G",Legendary Creature — Human Shaman,"C15, CMA, CMM, OC15, PLST, PZ1, SLD",5d810202-f0e0-521d-a455-6e3f18951956
+"Melek, Izzet Paragon",rare,,"R, U",Legendary Creature — Weird Wizard,"C15, C20, CMM, DGM, PDGM, PRM",db6fe3ee-33bc-55d7-b7a1-6a6a606995d8
+Prime Speaker Zegana,mythic,,"G, U",Legendary Creature — Merfolk Wizard,"C15, GTC, LCC, RVR",043f68d9-9681-5466-bb3c-5e51495d8d24
+"Teysa, Envoy of Ghosts",rare,,"B, W",Legendary Creature — Human Advisor,"C15, C21, DGM",8f1fbd5c-0f7c-559b-97eb-16051020fce2
+"Akiri, Line-Slinger",rare,,"R, W",Legendary Creature — Kor Soldier Ally,"C16, CMR, PRM, PZ2",ff4cc9c8-2b05-5237-af1c-2095ca3e5383
+"Bruse Tarl, Boorish Herder",mythic,,"R, W",Legendary Creature — Human Ally,"C16, CMR, PRM, PZ2",cc26e7c9-1dd8-5600-a25a-e3be30ae36b1
+"Ikra Shidiqi, the Usurper",mythic,,"B, G",Legendary Creature — Naga Wizard,"C16, CM2, CMR, PRM, PZ2",849bab65-d935-5dd8-8efc-f0b9b1c277d1
+"Ishai, Ojutai Dragonspeaker",mythic,,"U, W",Legendary Creature — Bird Monk,"C16, CM2, CMR, PRM, PZ2",5fe8908f-cb18-5a6e-b903-7dd94d247bb8
+"Kraum, Ludevic's Opus",rare,,"R, U",Legendary Creature — Zombie Horror,"C16, CMR, PRM, PZ2",aef00324-1c16-5901-819d-8eab21f450b0
+"Kydele, Chosen of Kruphix",mythic,,"G, U",Legendary Creature — Human Wizard,"C16, CMR, PRM, PZ2",2b0e3c34-8f2a-5835-b0f7-63f8e6dcc2d5
+Kynaios and Tiro of Meletis,mythic,,"G, R, U, W",Legendary Creature — Human Soldier,"C16, OC16, PZ2",1104ddf6-ead3-5866-8493-19a3ff84eb19
+"Ludevic, Necro-Alchemist",mythic,,"R, U",Legendary Creature — Human Wizard,"C16, CMR, PRM, PZ2",860619ec-1872-5a14-9130-de9cc306a243
+"Ravos, Soultender",mythic,,"B, W",Legendary Creature — Human Cleric,"C16, CMR, PRM, PZ2",ac9bce91-6ecf-5a56-afdd-4084dcd5e254
+"Reyhan, Last of the Abzan",rare,,"B, G",Legendary Creature — Human Warrior,"C16, CM2, CMR, PRM, PZ2",7c8f2829-23dd-5607-9816-20332a45adfd
+Saskia the Unyielding,mythic,,"B, G, R, W",Legendary Creature — Human Soldier,"C16, OC16, PZ2, SLD",5ca12306-e9d0-5c3f-a75e-12f0e24093f9
+Sidar Kondo of Jamuraa,mythic,,"G, W",Legendary Creature — Human Knight,"C16, CMR, MKC, PRM, PZ2",e5174a04-ad87-53d0-840d-c41e03f568e9
+"Tana, the Bloodsower",mythic,,"G, R",Legendary Creature — Elf Druid,"C16, CMR, PRM, PZ2",74afc4ac-7d33-5621-b0db-13fbebe9be5b
+"Thrasios, Triton Hero",rare,,"G, U",Legendary Creature — Merfolk Wizard,"C16, CMR, PRM, PZ2, SPG",9be8542c-bc96-529c-bc67-3c3e91672dae
+Tymna the Weaver,rare,,"B, W",Legendary Creature — Human Cleric,"C16, CMR, PRM, PZ2",a3acd769-ba2b-5717-92b7-e798eecfe037
+Vial Smasher the Fierce,mythic,,"B, R",Legendary Creature — Goblin Berserker,"C16, CMR, PRM, PZ2, SLD",dcbdfba3-924b-5eca-a630-e24ef859f346
+"Yidris, Maelstrom Wielder",mythic,,"B, G, R, U",Legendary Creature — Ogre Wizard,"C16, OC16, PZ2, SLD",bad1a1a7-acc7-5065-95f7-ab306170a982
+"Kazuul, Tyrant of the Cliffs",rare,,R,Legendary Creature — Ogre Warrior,"C16, CLB, CMM, MKC, NCC, SCD, WWK",a1131bd3-039d-5737-b5a5-5bb20eb99c49
+"Edric, Spymaster of Trest",rare,,"G, U",Legendary Creature — Elf Rogue,"C16, CM1, CMD, CNS, OTC, PCMD, PZ1, VMA",2f5c2f25-6cef-5cc9-8669-184aeae04434
+"Jor Kadeen, the Prevailer",rare,,"R, W",Legendary Creature — Human Warrior,"C16, C21, NPH, ONC",2043f8bc-5136-5641-b8cf-6726c9ecea93
+Nath of the Gilt-Leaf,rare,,"B, G",Legendary Creature — Elf Warrior,"C16, LRW",d39e4ac0-385c-5bfb-92fd-8f7e2dc83426
+"Selvala, Explorer Returned",rare,,"G, W",Legendary Creature — Elf Scout,"C16, CNS, DMC, MKC, NCC, VMA",88aaefdf-d7d7-5743-b6ae-feccc85d81b0
+Vorel of the Hull Clade,rare,,"G, U",Legendary Creature — Human Merfolk,"C16, CM2, DGM, GK2, LCC, NCC",06d0ef0b-75fd-56bd-955d-89a79f4a0d7a
+Zedruu the Greathearted,mythic,,"R, U, W",Legendary Creature — Minotaur Monk,"C16, CMD, CMR, OCMD, PRM, PZ1",2349cff1-4218-55c6-bff0-819bc1551048
+"Kess, Dissident Mage",mythic,,"B, R, U",Legendary Creature — Human Wizard,"C17, MH1, NCC, PZ2, SLD",1386dab0-ebde-5a89-aa33-c12db32dff4d
+"O-Kagachi, Vengeful Kami",mythic,,"B, G, R, U, W",Legendary Creature — Dragon Spirit,"C17, DMC, PZ2",4fd6596a-454b-5988-9286-d2103cf78464
+"Taigam, Ojutai Master",rare,,"U, W",Legendary Creature — Human Monk,"C17, MUL, PZ2",1de74fc8-834b-5514-9662-79612b29b355
+"Anowon, the Ruin Sage",rare,,B,Legendary Creature — Vampire Shaman,"C17, VOC, WWK",030b4fc3-701e-5a3b-8e3b-dc79773528f5
+Jedit Ojanen of Efrava,rare,,G,Legendary Creature — Cat Warrior,"C17, PLC, PLST, PSAL",33e8d8a1-ec5a-5489-90f2-04087c55fb46
+Bladewing the Risen,rare,,"B, R",Legendary Creature — Zombie Dragon,"C17, CMA, CMD, DRB, IMA, PANA, PLST, SCG",a322ecfd-c131-5c76-acee-dcdedd72fbc8
+"Crosis, the Purger",rare,,"B, R, U",Legendary Creature — Dragon,"C17, INV, PD3, PLST",3dbd5612-9365-5081-a957-1ee4662626ad
+"Nin, the Pain Artist",rare,,"R, U",Legendary Creature — Vedalken Wizard,"C17, CMD, J18, PCMD, PLST",3b0e1ac6-84de-5f4f-8f0d-23648d88ab4b
+Vela the Night-Clad,mythic,,"B, U",Legendary Creature — Human Wizard,"C17, CM1, PC2, PCA, PLST, PZ1, SCD",00c2dfe1-f70a-54ae-a0f1-284089775dbe
+"Varchild, Betrayer of Kjeldor",rare,,R,Legendary Creature — Human Knight,"C18, PZ2",08a00cee-bb8f-59f1-b34f-744be4a49219
+"Gyrus, Waker of Corpses",mythic,,"B, G, R",Legendary Creature — Hydra,"C18, PZ2",8d01c246-0190-5bc1-81a2-0ee6b9dcc3c9
+"Tawnos, Urza's Apprentice",mythic,,"R, U",Legendary Creature — Human Artificer,"C18, PLST, PZ2",6742cb03-35d3-5380-92a9-eab20e829b80
+"Thantis, the Warweaver",mythic,,"B, G, R",Legendary Creature — Spider,"C18, PZ2",5834c2b5-6d8c-544a-aaf4-fcb8a1735a05
+Tuvasa the Sunlit,mythic,,"G, U, W",Legendary Creature — Merfolk Shaman,"C18, PZ2",6f11acd2-ce99-5c84-a848-073b5443226c
+"Xantcha, Sleeper Agent",rare,,"B, R",Legendary Creature — Minion,"C18, CMM, PLG21, PLST, PZ2, SLD",18bf246b-a209-5634-8874-ca2f2230d629
+"Yennett, Cryptic Sovereign",mythic,,"B, U, W",Legendary Creature — Sphinx,"C18, CMM, PZ2",9fc45f31-533a-582d-8b57-6d532a44acf7
+"Yuriko, the Tiger's Shadow",rare,,"B, U",Legendary Creature — Human Ninja,"C18, CMM, CMR, J19, PL22, PLG21, PLST, PRM, PZ2",4648982e-c7ae-5614-b4ff-7101f8092c20
+"Budoka Gardener // Dokai, Weaver of Life",rare,,G,Legendary Creature — Human Monk,"C18, CHK, PLST",5b9682b4-a2e6-586c-b479-6508264d992e
+Daxos of Meletis,rare,,"U, W",Legendary Creature — Human Soldier,"C18, NCC, THS",c3a38351-9202-5212-aa78-0ce43a65886d
+"K'rrik, Son of Yawgmoth",rare,,B,Legendary Creature — Horror Minion,"C19, MH3, PJ21, PLST, SLD",aaac4748-5875-501e-956c-7096ca43e53e
+"Chainer, Nightmare Adept",mythic,,"B, R",Legendary Creature — Human Minion,"C19, J21, MH2",dd912207-45c9-5697-885d-05434ee5e93c
+"Marisi, Breaker of the Coil",mythic,,"G, R, W",Legendary Creature — Cat Warrior,"C19, PLST",0c4761f2-ab0d-5c75-9d8c-edc82de4e387
+"Zetalpa, Primal Dawn",rare,,W,Legendary Creature — Elder Dinosaur,"C19, C20, C21, CMM, DMC, GN2, LCC, PLST, PRIX, RIX",219ca6b3-84c4-5125-9c6c-1e662102e402
+"Trynn, Champion of Freedom",mythic,,W,Legendary Creature — Human Soldier,C20,4478fcff-7161-5780-930f-ebc396fe0d1c
+"Haldan, Avid Arcanist",mythic,,U,Legendary Creature — Human Wizard,C20,5a63ad25-efeb-55f5-a1b5-999e2909dda4
+"Nikara, Lair Scavenger",mythic,,B,Legendary Creature — Human Cleric,C20,ca349d4d-57be-5383-a448-1bc9e66986b8
+"Brallin, Skyshark Rider",mythic,,R,Legendary Creature — Human Shaman,"C20, PLST",ae1c3713-9b58-505c-b8ef-e7173d740b55
+"Cazur, Ruthless Stalker",mythic,,G,Legendary Creature — Human Warrior,"C20, OTC",b8d63eb2-b2be-505e-ab3c-2abfe5a135e9
+"Akim, the Soaring Wind",mythic,,"R, U, W",Legendary Creature — Bird Dinosaur,C20,78106715-859f-52ab-a302-5583d30a4666
+"Gavi, Nest Warden",mythic,,"R, U, W",Legendary Creature — Human Shaman,"C20, OC20",7fb74df8-2267-5c1c-92f0-14228843b8b3
+Jirina Kudro,mythic,,"B, R, W",Legendary Creature — Human Soldier,"C20, OC20",220acb3f-5647-5fd5-9790-f248063a11db
+"Kalamax, the Stormsire",mythic,,"G, R, U",Legendary Creature — Elemental Dinosaur,"C20, OC20, PLST, SPG",b1eb5696-84a9-5308-95ac-a27311ac02f9
+"Kathril, Aspect Warper",mythic,,"B, G, W",Legendary Creature — Nightmare Insect,"C20, OC20",5b5d1ee3-86ab-5507-bd72-b67397a83053
+"Kelsien, the Plague",mythic,,"B, R, W",Legendary Creature — Human Assassin,C20,afebfa0f-8fe7-5459-967e-61660c651917
+"Otrimi, the Ever-Playful",mythic,,"B, G, U",Legendary Creature — Nightmare Beast,"C20, OC20",ecc89788-483d-526d-b74f-72379cf16e41
+"Pako, Arcane Retriever",mythic,,"G, R",Legendary Creature — Elemental Hound,C20,1039432d-3b62-568e-b4f8-a2890ff85c72
+"Shabraz, the Skyshark",mythic,,"U, W",Legendary Creature — Shark Bird,"C20, PLST",ea662c91-94b1-55eb-859d-be8e4d9d3abd
+"Silvar, Devourer of the Free",mythic,,"B, R",Legendary Creature — Cat Nightmare,C20,6f058dfc-7ee2-59d7-81be-451f004ee9a4
+"Tayam, Luminous Enigma",mythic,,"B, G, W",Legendary Creature — Nightmare Beast,C20,5b480925-a514-5a86-81d5-13c1c32dcb9a
+"Ukkima, Stalking Shadow",mythic,,"B, U",Legendary Creature — Whale Wolf,"C20, OTC",de04073a-d432-5a9e-85e2-fde7bf93091a
+"Xyris, the Writhing Storm",mythic,,"G, R, U",Legendary Creature — Snake Leviathan,"C20, DMC",6ca79ffb-f135-57e0-97d9-4a56956f1249
+"Yannik, Scavenging Sentinel",mythic,,"G, W",Legendary Creature — Hyena Beast,C20,cc7ce750-70e4-5329-868c-7ad95163ccfa
+"Zaxara, the Exemplary",mythic,,"B, G, U",Legendary Creature — Nightmare Hydra,"C20, DMC, SLD",446d2b3e-42e6-5be6-bb6d-9321e54b68c9
+"Odric, Lunarch Marshal",rare,,W,Legendary Creature — Human Soldier,"C20, CMR, DMC, PLST, PSOI, SIR, SOI",d08e1382-0324-5c7f-b498-bca1870fdc8c
+"Odric, Master Tactician",rare,,W,Legendary Creature — Human Soldier,"C20, CMM, E01, M13, MIC, PLST",6766a6d6-8a19-5681-a90a-9a6ba6e3bf6c
+"Adriana, Captain of the Guard",rare,,"R, W",Legendary Creature — Human Knight,"C20, CN2, DMC, ONC, PZ2",7bca7506-0efe-57c6-a90d-2e8a0d126282
+"Garna, the Bloodflame",uncommon,,"B, R",Legendary Creature — Human Warrior,"C20, DMC, DOM, PDOM, UMA",c83d2b78-8011-5ecc-bf96-c2af563413e0
+"Isperia, Supreme Judge",mythic,,"U, W",Legendary Creature — Sphinx,"C20, GK2, RTR, SCD",12ea86cd-a50a-5f60-92f0-fab475560854
+"Rashmi, Eternities Crafter",mythic,,"G, U",Legendary Creature — Elf Druid,"C20, KLD, KLR, PKLD",9fd762d2-16d7-5490-a450-66034ea70dbf
+"Wort, the Raidmother",rare,,"G, R",Legendary Creature — Goblin Shaman,"C20, MM3, SHM",db7a3251-9875-59d2-a401-d75864aa3f45
+"Wydwen, the Biting Gale",rare,,"B, U",Legendary Creature — Faerie Wizard,"C20, LRW",43f8b2d0-3d17-52f8-babe-b99ed8cceb81
+"Breena, the Demagogue",mythic,,"B, W",Legendary Creature — Bird Warlock,"C21, OC21, OTC, PRM",327c1372-43ec-5a52-b3d8-0daf66c72a57
+"Felisa, Fang of Silverquill",mythic,,"B, W",Legendary Creature — Vampire Wizard,"C21, CLB, PRM",d383d0f7-51ac-5ec3-b360-2c87b50da137
+"Veyran, Voice of Duality",mythic,,"R, U",Legendary Creature — Efreet Wizard,"C21, OTC, PRM",917ba0fd-17b7-5639-a38e-95a3a0a6fec2
+"Zaffai, Thunder Conductor",mythic,,"R, U",Legendary Creature — Human Shaman,"C21, OC21, PRM",15994519-a988-5c2b-80e3-575739bb911d
+"Gyome, Master Chef",mythic,,"B, G",Legendary Creature — Troll Warlock,"C21, PRM",50d05433-1746-5661-9a28-32e9e8a61159
+"Willowdusk, Essence Seer",mythic,,"B, G",Legendary Creature — Dryad Druid,"C21, OC21, PRM",38e954e1-7689-5d56-8899-ba073308b4b4
+"Osgir, the Reconstructor",mythic,,"R, W",Legendary Creature — Giant Artificer,"C21, OC21, PRM",c60514bc-44d5-5611-9a2e-3980d71b87f6
+"Adrix and Nev, Twincasters",mythic,,"G, U",Legendary Creature — Merfolk Wizard,"C21, MKC, OC21, PRM, SLD",40ee2cb8-0631-5246-b939-e6987bad756e
+"Esix, Fractal Bloom",mythic,,"G, U",Legendary Creature — Fractal,"C21, MKC, PRM",4b454db3-0ed3-59c9-a83d-65d613d704c7
+"Nils, Discipline Enforcer",rare,,W,Legendary Creature — Human Cleric,"C21, PRM",a0a74fe8-2dc9-5179-a0a4-45d4a94c049b
+"Deekah, Fractal Theorist",rare,,U,Legendary Creature — Human Wizard,"C21, PRM",e01176cb-a376-5112-9544-418c98336fa6
+"Octavia, Living Thesis",rare,,U,Legendary Creature — Elemental Octopus,"C21, OTC, PRM",cdd1d813-eace-5abc-9bb6-9f30a8cba4a9
+"Tivash, Gloom Summoner",rare,,B,Legendary Creature — Human Warlock,"C21, J22, PRM",d139e077-20ae-5f46-a89c-04d2829761d1
+"Laelia, the Blade Reforged",rare,,R,Legendary Creature — Spirit Warrior,"C21, CLB, HA6, MH3, PRM",b5c7e9c1-7f2e-55d8-9bab-48b730787097
+"Rionya, Fire Dancer",rare,,R,Legendary Creature — Human Wizard,"C21, PRM",cdbbc8bf-7f32-5f64-adfc-36384b901eaf
+"Ruxa, Patient Professor",rare,,G,Legendary Creature — Bear Druid,"C21, PRM",dafe24da-04ca-5c72-8cd7-4678aad0642e
+"Yedora, Grave Gardener",rare,,G,Legendary Creature — Treefolk Druid,"C21, CMM, MKC, MUL, PRM",07d2b662-2ff3-589a-a6d3-811df5207ddc
+"Naru Meha, Master Wizard",mythic,,U,Legendary Creature — Human Wizard,"C21, DOM, PDOM",82d82f35-707d-5ac0-b3d8-451ca5916cd6
+Pia Nalaar,rare,,R,Legendary Creature — Human Artificer,"C21, KLD, KLR, PKLD",37ae58bf-a95a-58a9-aedf-1ef6a132410d
+"Arashi, the Sky Asunder",rare,,G,Legendary Creature — Spirit,"C21, SOK",0ce27de2-7618-5082-b324-42dd8bcc0450
+Sapling of Colfenor,rare,,"B, G",Legendary Creature — Treefolk Shaman,"C21, EVE",7bdb2773-7ac3-58b2-8007-81f1e581c679
+Eight-and-a-Half-Tails,rare,,W,Legendary Creature - Fox Cleric,"CHK, CLB, EMA",971bfb78-f275-51df-b1cd-f887e51a68ac
+"Isamaru, Hound of Konda",rare,,W,Legendary Creature - Hound,"CHK, J22, JMP, PLST",c81ea548-0fc6-5cec-b041-8782a80701d8
+"Nagao, Bound by Honor",uncommon,,W,Legendary Creature - Human Samurai,"CHK, PLST",e571ccd1-f93d-5a01-a0ed-90adb6d2177e
+Sensei Golden-Tail,rare,,W,Legendary Creature - Fox Samurai,"CHK, PLST",72de7408-0aed-5169-aa17-d47d1078ebb4
+Jushi Apprentice // Tomoya the Revealer,rare,,U,Legendary Creature Human Wizard,"CHK, PLST",cac83f97-0eb4-5ddb-84dc-622734b13134
+"Keiga, the Tide Star",rare,,U,Legendary Creature - Dragon Spirit,"CHK, CLB, IMA, MMA",3ec11245-5aa9-531e-b60c-389f4e83f13c
+Meloku the Clouded Mirror,rare,,U,Legendary Creature - Moonfolk Wizard,"CHK, CMR, MMA",eee3a30f-be71-5158-bdee-cd8013fe779c
+The Unspeakable,rare,,U,Legendary Creature - Spirit,"CHK, DDS, PLST, PZ2",39eceb36-9351-5192-9347-d6714c1e7009
+"Horobi, Death's Wail",rare,,B,Legendary Creature - Spirit,"CHK, MUL",688620fc-1f8d-5478-a278-3b03aa712251
+Marrow-Gnawer,rare,,B,Legendary Creature - Rat Rogue,"CHK, J21, PHUK, PLST, PSAL, SLD",9227808c-c937-5440-bd55-d2e7cff77bae
+Nezumi Graverobber // Nighteyes the Desecrator,uncommon,,B,Legendary Creature Rat Wizard,"CHK, CM2, CMD, PHUK, PLST, PSAL, TD0",c81c2f3d-eebe-59ea-b7e8-c3f91908eadd
+Nezumi Shortfang // Stabwhisker the Odious,rare,,B,Legendary Creature Rat Shaman,"CHK, PLST",996c7cc2-9201-5f7c-ba67-f62158d6bcb8
+"Seizan, Perverter of Truth",rare,,B,Legendary Creature - Demon Spirit,"CHK, J22, MUL",9ae1b13e-bcee-56b4-99d9-097fef1c9ac6
+Brothers Yamazaki,uncommon,,R,Legendary Creature - Human Samurai,"CHK, PLST",a7d7f03a-d876-52aa-97f6-44d371226533
+Initiate of Blood // Goka the Unjust,uncommon,,R,Legendary Creature Ogre Shaman,"CHK, PLST",491c88ad-5ae6-510b-870c-db5e3c9d913d
+"Kiki-Jiki, Mirror Breaker",rare,,R,Legendary Creature - Goblin Shaman,"CHK, IMA, J22, MM2, MMA, PLST, TSR, V11",0e5c49fe-778f-5d24-86c5-6c11477d4dbe
+"Jugan, the Rising Star",rare,,G,Legendary Creature - Dragon Spirit,"CHK, IMA, MMA, PLST",6ca0435f-cfd4-5ca9-9cba-08d55ef5e534
+Myojin of Life's Web,rare,,G,Legendary Creature - Spirit,"CHK, PLST",c28294fb-a052-521e-a295-4d565732a9d6
+Seshiro the Anointed,rare,,G,Legendary Creature - Snake Monk,"CHK, PLST, SLD",e047d7bd-cddd-5c7f-bfd5-b207466037b8
+"Sosuke, Son of Seshiro",uncommon,,G,Legendary Creature - Snake Warrior,"CHK, PLST",52d71abf-a55d-5f47-b321-0be28d8681ab
+"Abdel Adrian, Gorion's Ward",uncommon,,W,Legendary Creature — Human Warrior,CLB,ae83f439-f05e-5d15-849a-808b8c8c8098
+"Ellyn Harbreeze, Busybody",uncommon,,W,Legendary Creature — Human Peasant,CLB,5f80576b-43e4-5e5b-8e45-8974e6b2d3bf
+"Lae'zel, Vlaakith's Champion",rare,,W,Legendary Creature — Gith Warrior,"CLB, PCLB",b531ba67-f3ba-505b-a89e-39b630c3e322
+"Lulu, Loyal Hollyphant",uncommon,,W,Legendary Creature — Elephant Angel,CLB,74e43e52-e062-5a89-9a2e-e1d27900e873
+Rasaad yn Bashir,uncommon,,W,Legendary Creature — Human Monk,CLB,51f0a76f-ce93-5a67-83a2-bf90c4499d64
+"Alora, Merry Thief",uncommon,,U,Legendary Creature — Halfling Rogue,CLB,e3a75e01-cf18-5619-a245-86e8624bc220
+"Gale, Waterdeep Prodigy",rare,,U,Legendary Creature — Human Wizard,"CLB, PCLB",9c23fad6-2b6d-5702-8b06-6521fa3f5a75
+"Imoen, Mystic Trickster",uncommon,,U,Legendary Creature — Human Rogue Wizard,CLB,f403aa76-d362-5f6b-9828-8ccaaca112ea
+"Renari, Merchant of Marvels",uncommon,,U,Legendary Creature — Dragon Artificer,CLB,571809e7-c3c8-5999-b964-6d95b4b21f88
+"Vhal, Candlekeep Researcher",uncommon,,U,Legendary Creature — Human Wizard,CLB,5ce88808-7f7c-5caa-8ae6-dbcfec2a5bf6
+"Volo, Itinerant Scholar",mythic,,U,Legendary Creature — Human Wizard,"CLB, PCLB",be98a8ed-15dc-59c5-b5ef-6519a62c6b47
+"Safana, Calimport Cutthroat",uncommon,,B,Legendary Creature — Human Rogue,CLB,ec5e569a-d99a-536c-aab1-2aa47054c40c
+"Sarevok, Deathbringer",uncommon,,B,Legendary Creature — Human Knight,CLB,52f095f3-a87d-5155-a4a5-6d2743c4be32
+"Shadowheart, Dark Justiciar",rare,,B,Legendary Creature — Human Elf Cleric,"CLB, PCLB",c955cdd5-9b39-5af7-b823-6055b093dacd
+"Sivriss, Nightmare Speaker",uncommon,,B,Legendary Creature — Snake Cleric Warlock,CLB,da4c39ba-5d0d-5be2-a6be-404d7a0bd859
+"Viconia, Drow Apostate",uncommon,,B,Legendary Creature — Elf Cleric,CLB,9e611995-bb58-52ea-9cda-ad47c4a58e46
+Amber Gristle O'Maul,uncommon,,R,Legendary Creature — Dwarf Cleric,CLB,d8c8cb32-02e1-500f-a2a9-55a59e2ba40b
+"Ganax, Astral Hunter",uncommon,,R,Legendary Creature — Dragon,CLB,ee6a1494-cca9-5775-915d-be1e920ced90
+"Gut, True Soul Zealot",uncommon,,R,Legendary Creature — Goblin Shaman,CLB,063508e0-d066-54cf-bed2-683a6d214bdd
+"Karlach, Fury of Avernus",mythic,,R,Legendary Creature — Tiefling Barbarian,"CLB, PCLB",beb54d94-c11e-5da2-a0c7-194fdb7d83a5
+"Livaan, Cultist of Tiamat",uncommon,,R,Legendary Creature — Dragon Shaman,CLB,a45cf3ab-8c12-568c-9b06-e9c2d4eb1673
+"Wyll, Blade of Frontiers",rare,,R,Legendary Creature — Human Warlock,"CLB, PCLB",0760b7dd-4c1e-5294-91e9-58ce0d9ef66f
+"Erinis, Gloom Stalker",uncommon,,G,Legendary Creature — Halfling Ranger,CLB,81629b7c-4a6f-556f-91b4-54986a456628
+"Halsin, Emerald Archdruid",uncommon,,G,Legendary Creature — Elf Druid,CLB,cfeadd68-f55d-5024-b407-0480cc6a8020
+"Jaheira, Friend of the Forest",rare,,G,Legendary Creature — Human Elf Druid,"CLB, PCLB",3a780e9f-15db-5a8f-88ea-bbeba2b38ee8
+Skanos Dragonheart,uncommon,,G,Legendary Creature — Dragon Ranger,CLB,0b3482ad-c206-5b61-9314-315d9013227e
+"Wilson, Refined Grizzly",uncommon,,G,Legendary Creature — Bear Warrior,CLB,81a24226-1309-54cf-9b4b-2b5a905a0b64
+Alaundo the Seer,rare,,"G, U",Legendary Creature — Human Shaman,"CLB, HBG, PCLB",c1233ea7-dd70-5c29-960f-791a366042df
+"Astarion, the Decadent",rare,,"B, W",Legendary Creature — Vampire Elf Rogue,"CLB, HBG, PCLB",6fb43831-6b0a-5218-9de2-d00db14a18d7
+"Baba Lysaga, Night Witch",rare,,"B, G",Legendary Creature — Human Warlock,"CLB, HBG, PCLB",d65a0708-7309-508c-a088-98c86392b5ff
+"Bane, Lord of Darkness",rare,,"B, U, W",Legendary Creature — God,"CLB, PCLB",facfdd97-3e6a-5491-8837-a6cf430838bb
+"Bhaal, Lord of Murder",rare,,"B, G, R",Legendary Creature — God,"CLB, PCLB",7f531935-7985-580c-a932-6272e5baef73
+"Cadira, Caller of the Small",uncommon,,"G, W",Legendary Creature — Orc Ranger,CLB,6b42c91e-effc-5a31-be3d-0b46cd489840
+Commander Liara Portyr,uncommon,,"R, W",Legendary Creature — Human Soldier,CLB,938f21bc-21b9-5d11-ac38-fe71a513b311
+The Council of Four,rare,,"U, W",Legendary Creature — Human Noble,"CLB, PCLB",01ad1b3d-4372-53e8-8e3e-5ec04e442b48
+Duke Ulder Ravengard,rare,,"R, W",Legendary Creature — Human Noble Soldier,"CLB, PCLB",5b513a4d-1a3d-5fca-a496-20c186819c7c
+"Dynaheir, Invoker Adept",rare,,"R, U, W",Legendary Creature — Human Wizard,"CLB, PCLB",02947ad3-ba99-524f-8bf0-072a1c2f7b0b
+"Gluntch, the Bestower",rare,,"G, W",Legendary Creature — Jellyfish,"CLB, PCLB",e87d6797-99c2-5fbb-bbc4-8bbe9a9f456c
+"Gorion, Wise Mentor",rare,,"G, U, W",Legendary Creature — Human Wizard,"CLB, HBG, PCLB",717adb2e-cd70-5719-92ce-0fc510fbb42b
+"Jan Jansen, Chaos Crafter",rare,,"B, R, W",Legendary Creature — Gnome Artificer,"CLB, HBG, PCLB",9f61e784-3be7-5e33-bbad-9eee0d2e6622
+"Jon Irenicus, Shattered One",rare,,"B, U",Legendary Creature — Elf Wizard,"CLB, PCLB",efe9e85b-ea47-54e3-90ea-62d1947ef775
+"Kagha, Shadow Archdruid",uncommon,,"B, G",Legendary Creature — Elf Druid,"CLB, HBG",fabbb438-d392-5458-97f1-d118210601fa
+"Korlessa, Scale Singer",uncommon,,"G, U",Legendary Creature — Dragon Bard,"CLB, HBG",63c311b5-e5ae-5974-8e0e-547f9ed39c39
+"Lozhan, Dragons' Legacy",uncommon,,"R, U",Legendary Creature — Dragon Shaman,"CLB, HBG",a132296c-32ae-587f-8636-64cc3548bb5e
+"Mahadi, Emporium Master",uncommon,,"B, R",Legendary Creature — Cat Devil,CLB,166538c6-5136-59f8-a24c-684e908f91ec
+"Mazzy, Truesword Paladin",rare,,"G, R, W",Legendary Creature — Halfling Knight,"CLB, HBG, PCLB",c734994c-41aa-57ce-8d59-b014d47bae19
+"Miirym, Sentinel Wyrm",rare,,"G, R, U",Legendary Creature — Dragon Spirit,"CLB, HBG, PCLB",325c59d6-e30e-5622-8776-45d2a821efe1
+"Minthara, Merciless Soul",uncommon,,"B, W",Legendary Creature — Elf Cleric,CLB,bde4774c-6945-5483-b5a6-08350f250d51
+"Myrkul, Lord of Bones",rare,,"B, G, W",Legendary Creature — God,"CLB, PCLB",6d5cf048-d915-5f14-8b26-2bb7caa4fffd
+"Neera, Wild Mage",rare,,"R, U",Legendary Creature — Human Elf Shaman,"CLB, HBG, PCLB",573ee749-6d2d-5109-8e4e-e564b777656c
+Nine-Fingers Keene,rare,,"B, G, U",Legendary Creature — Human Rogue,"CLB, PCLB",649b9a67-a844-597d-816e-4928c03a9053
+"Oji, the Exquisite Blade",uncommon,,"U, W",Legendary Creature — Human Monk,"CLB, HBG",67c6cb58-8004-5cbb-a343-d69b56a83e2a
+"Raggadragga, Goreguts Boss",rare,,"G, R",Legendary Creature — Human Boar,"CLB, HBG, PCLB",9dbfc52d-c4da-54e4-9578-949ece69a060
+"Raphael, Fiendish Savior",rare,,"B, R",Legendary Creature — Devil Noble,"CLB, HBG, PCLB",564f739c-222b-57aa-be67-c6a984fa8ba5
+"Rilsa Rael, Kingpin",uncommon,,"B, U",Legendary Creature — Human Rogue,CLB,e54aa6cb-c2ca-5371-b167-b49e60b51dc5
+Thrakkus the Butcher,uncommon,,"G, R",Legendary Creature — Dragon Peasant,"CLB, HBG",28243440-30c8-512f-91fa-db25c7775b2c
+"Zevlor, Elturel Exile",rare,,"B, R, U",Legendary Creature — Tiefling Warrior,"CLB, PCLB",1a23c5b1-233b-5875-9e39-77c94484e96c
+"Zellix, Sanity Flayer",mythic,,U,Legendary Creature — Horror,CLB,1c8a73ce-dd4e-520c-8e63-72e47fad4d9d
+"Burakos, Party Leader",mythic,,B,Legendary Creature — Orc,CLB,dc96dfbb-10e9-553d-8007-448c7eeeff7f
+"Baeloth Barrityl, Entertainer",mythic,,R,Legendary Creature — Elf Shaman,CLB,754b99fd-8db6-5346-a1d5-78e013411fa9
+Durnan of the Yawning Portal,mythic,,G,Legendary Creature — Human Warrior,CLB,c3c48205-222a-5355-b250-63d8ebf6c298
+Captain N'ghathrod,mythic,,"B, U",Legendary Creature — Horror Pirate,CLB,be1a3f7b-4fa6-5dc8-ad1d-df07eb678786
+"Faldorn, Dread Wolf Herald",mythic,,"G, R",Legendary Creature — Human Druid,CLB,46d0aa00-b0b0-5437-8258-324e956c56e6
+"Firkraag, Cunning Instigator",mythic,,"R, U",Legendary Creature — Dragon,CLB,41340e62-61bd-5ee7-9d9d-14a307f2a27e
+Nalia de'Arnise,mythic,,"B, W",Legendary Creature — Human Rogue,"CLB, HBG",7d9c82e6-7ae0-5320-9e29-f9e5c9530972
+"Grazilaxx, Illithid Scholar",rare,,U,Legendary Creature — Horror,"AFR, CLB, PAFR, PRM",881c85fe-d947-5f5c-a26c-c16ff481cc2c
+"Drakuseth, Maw of Flames",rare,,R,Legendary Creature — Dragon,"CLB, CMM, GN3, M20, PM20, SCD",496bdde3-98ba-5f7e-8d9f-6544e6d2f790
+Urabrask the Hidden,mythic,,R,Legendary Creature — Phyrexian Praetor,"CLB, HA5, IMA, MUL, NPH, PLST, SLD",49a24cda-4f82-562a-93d2-847c9c527443
+"Grumgully, the Generous",uncommon,,"G, R",Legendary Creature — Goblin Shaman,"CLB, ELD, NEC, PLST",5c91e955-6404-5828-a79e-3cda4dbd2c8a
+"Niv-Mizzet, Parun",rare,,"R, U",Legendary Creature — Dragon Wizard,"CLB, GRN, OTC, PGRN, PLST, RVR",0c2cbf05-c0c8-5011-931b-ea010d463dac
+Apothecary White,rare,,W,Legendary Creature — Human Cleric,CLU,08853e2d-24cb-5858-9091-dbf726ff1a0a
+Senator Peacock,rare,,U,Legendary Creature — Human Advisor,CLU,fb0f09e1-b1a4-5c5b-a600-7667324b15bc
+Mastermind Plum,rare,,B,Legendary Creature — Human Wizard,CLU,e1e88eb4-ecfb-5056-8994-42d5a1406f04
+Headliner Scarlett,rare,,R,Legendary Creature — Human Warlock,CLU,23b95d9e-cd70-53d5-8b0f-9fb43043f8b1
+Emissary Green,rare,,G,Legendary Creature — Human Advisor,CLU,861d99e4-ef8b-576d-af84-d24d8018d91a
+Commander Mustard,rare,,"R, W",Legendary Creature — Human Soldier,CLU,57b98786-dd10-52b7-bf08-72bad5ca6d36
+"Amzu, Swarm's Hunger",rare,,"B, G",Legendary Creature — Insect Shaman,CLU,a4f767fd-0928-5521-8c9e-9559e6eee71d
+"Lavinia, Foil to Conspiracy",rare,,"U, W",Legendary Creature — Human Detective,CLU,7e965432-fb84-5e8e-9030-c998c338c211
+"Lonis, Genetics Expert",rare,,"G, U",Legendary Creature — Snake Elf Detective,CLU,cf7246df-f671-563d-9bb5-993b365c77ad
+Lavinia of the Tenth,rare,,"U, W",Legendary Creature — Human Soldier,"CLU, DGM, GK2",21c46ed1-7de2-59b2-8671-b06031af4c3b
+"Rakdos, the Showstopper",mythic,,"B, R",Legendary Creature — Demon,"CLU, PRNA, RNA",f5c4cf40-ff01-54cf-a0e4-065ff2eeeb21
+Trostani Discordant,mythic,,"G, W",Legendary Creature — Dryad,"CLU, GRN, PGRN, SCD",d2673289-7b69-5012-bbd5-53f5ac8cf676
+Maelstrom Wanderer,mythic,,"G, R, U",Legendary Creature — Elemental,"CM1, CMM, CMR, EMA, PC2, PCA, PRM, PZ1",fe150613-2060-5dc2-ba61-10928360988b
+"Wrexial, the Risen Deep",mythic,,"B, U",Legendary Creature — Kraken,"CM2, CMD, NCC, SLD, WWK",49f4d32f-4966-555d-9bf1-46afb74ffbe9
+The Prismatic Piper,special,,,Legendary Creature — Shapeshifter,"CMM, CMR, PRM",1c8d3f82-7b94-5fc0-80d5-60a8d6363bfc
+"Morophon, the Boundless",mythic,,,Legendary Creature — Shapeshifter,"CMM, MH1, PJ21, PLST, PMH1",2db25501-acbd-5eb3-bf02-20e9aaa3d132
+"Alharu, Solemn Ritualist",uncommon,,W,Legendary Creature — Human Monk,"CMM, CMR, MOC, PRM",dea6b3af-65eb-52a5-9bca-2b9008c2649f
+"Anafenza, Kin-Tree Spirit",uncommon,,W,Legendary Creature — Spirit Soldier,"CMM, DMC, DTK, MUL, PDTK",602dd155-9bf3-5f29-8af2-91186ba3efc8
+"Baird, Steward of Argive",uncommon,,W,Legendary Creature — Human Soldier,"CMM, DOM, PDOM, PLST",02a784bc-b61d-5e59-9178-7321a4e03973
+"Danitha Capashen, Paragon",uncommon,,W,Legendary Creature — Human Knight,"CMM, CMR, DOM, GN3, J22, PDOM, PLST, SLD, WOC",f2acfed9-fa4a-5052-85ed-b67004eddc52
+"Keleth, Sunmane Familiar",uncommon,,W,Legendary Creature — Horse,"CMM, CMR, PRM",1c86bb93-0166-5ece-9b9c-49a3360f7024
+"Sephara, Sky's Blade",rare,,W,Legendary Creature — Angel,"CMM, M20, PLST, PM20, SCD",b0e03074-8387-50fd-a44f-3e6b88ab6f6a
+"Brinelin, the Moon Kraken",uncommon,,U,Legendary Creature — Kraken,"CMM, CMR, PLST, PRM",e77f3c72-8bf8-577e-9a56-4242d4b1b2d8
+Ghost of Ramirez DePietro,uncommon,,U,Legendary Creature — Spirit Pirate,"CMM, CMR, LCC, PLST, PRM",3779f08b-0d52-5a18-8dff-5ec15e13c170
+Inga Rune-Eyes,uncommon,,U,Legendary Creature — Human Wizard,"CMM, KHM, MUL, PRM",de1c4167-8469-523d-a9c1-e8d1eb39fb8d
+"Tetsuko Umezawa, Fugitive",uncommon,,U,Legendary Creature — Human Rogue,"CMM, DOM, MOC, MUL, PDOM",40af42b7-269e-51f8-93f0-0afcbe68d8b1
+"Thryx, the Sudden Storm",uncommon,,U,Legendary Creature — Elemental Giant,"CMM, PRM, PTHB, THB",90d17434-6d47-5fe5-a5e9-d19311ec4321
+"Urza, Lord High Artificer",mythic,,U,Legendary Creature — Human Artificer,"CMM, DMR, H1R, MH1, PRM",6780bf07-c1a5-57cf-8533-3a7c5d25980a
+"Chainer, Dementia Master",rare,,B,Legendary Creature — Human Minion,"CMM, DMR, TOR",465cf455-f620-5e61-955d-d7a7bef25416
+"Gorex, the Tombshell",uncommon,,B,Legendary Creature — Zombie Turtle,"CMM, MIC",f1e30223-11b6-5fcf-adeb-858fad5f252c
+"Mikaeus, the Unhallowed",mythic,,B,Legendary Creature — Zombie Cleric,"CMM, DKA, PLST, PUMA, SLD, UMA",36e148a6-d412-5c09-9793-593cebce3a2c
+"Rankle, Master of Pranks",rare,,B,Legendary Creature — Faerie Rogue,"CMM, ELD, OTC, PELD, SLD, WOC",ca653ed6-97c7-5b1f-b7d1-1dd33969955c
+"Taborax, Hope's Demise",uncommon,,B,Legendary Creature — Demon Cleric,"CMM, PRM, PZNR, ZNR",ba3cca4a-5a59-5a0f-a118-95363f54cc25
+"Yargle, Glutton of Urborg",uncommon,,B,Legendary Creature — Frog Spirit,"CMM, DOM, J22, MUL, PDOM, PLST, SLD",c3188424-75c2-52c2-9f05-8a911a8fa7d6
+Ashling the Pilgrim,rare,,R,Legendary Creature — Elemental Shaman,"CMM, DMC, LRW",6f0c4ced-bf75-54ec-aa54-ef06f7062e5c
+Captain Ripley Vance,uncommon,,R,Legendary Creature — Human Pirate,"CMM, J21, MH2",99a388eb-27c0-57b5-b24a-ff77f7004aed
+"Krenko, Mob Boss",rare,,R,Legendary Creature — Goblin Warrior,"CMM, DDN, DDT, J22, JMP, M13, PLST, RVR",fab36c87-62c2-56a5-9e8c-2fe8b3416ff9
+"Valduk, Keeper of the Flame",uncommon,,R,Legendary Creature — Human Shaman,"CMM, DMR, DOM, MUL, PDOM",db2bb2a3-a009-5f56-be6e-0d0fe814ffc3
+"Ghalta, Primal Hunger",rare,,G,Legendary Creature — Elder Dinosaur,"CMM, GN2, GNT, JMP, PANA, PLST, PRIX, PRM, RIX, SLD, SPG",e0a20e88-f4f2-5855-b202-97192e6a5c97
+"Goreclaw, Terror of Qal Sisma",uncommon,,G,Legendary Creature — Bear,"CMM, J22, M19, MUL, PM19, SLD",3dcc21c0-e898-5fc9-b5f7-9ee0179021b4
+"Jolrael, Mwonvuli Recluse",rare,,G,Legendary Creature — Human Druid,"CMM, DMR, M21, MKC, PLST, PM21, PRM",1f0571cf-6e01-5af8-b4a6-80d6d303bf62
+"Nemata, Grove Guardian",uncommon,,G,Legendary Creature — Treefolk,"CMM, PLS, PLST",08460125-cd86-5631-862b-04f2a6a6e587
+"Selvala, Heart of the Wilds",mythic,,G,Legendary Creature — Elf Scout,"CMM, CN2, JMP, PLST, PZ2",c0586aac-4cc7-5627-a191-42a26732210d
+"Yisan, the Wanderer Bard",rare,,G,Legendary Creature — Human Rogue Bard,"CMM, M15, PLST, SLD",418ce8bd-a1c3-5344-8006-fbdf22de24b8
+"Akiri, Fearless Voyager",uncommon,,"R, W",Legendary Creature — Kor Warrior,"CMM, PRM, PZNR, ZNR",89dcd821-c2ab-529d-9848-f889eaa69e21
+"Aryel, Knight of Windgrace",uncommon,,"B, W",Legendary Creature — Human Knight,"CMM, DOM, MOC, PDOM",dd959064-26ef-5a88-a335-249e4adc76c3
+"Hamza, Guardian of Arashin",uncommon,,"G, W",Legendary Creature — Elephant Warrior,"CMM, CMR, HA4, MOC, PRM",83dd3aef-7a87-576b-ad74-14ef3e14de10
+"Kykar, Wind's Fury",rare,,"R, U, W",Legendary Creature — Bird Wizard,"CMM, M20, MOC, PM20",f3f719fd-4771-5651-855e-0aeb3460a548
+Queen Marchesa,rare,,"B, R, W",Legendary Creature — Human Assassin,"CMM, CMR, CN2, OTC, PLST, PRM, PZ2, SLD",773d700c-d34f-502d-ac8e-ebdb066a84a1
+"Raff Capashen, Ship's Mage",uncommon,,"U, W",Legendary Creature — Human Wizard,"CMM, DOM, NEC, PDOM, PLST",ab8f58fa-6f9d-5661-8238-f54a6892cb73
+"Slimefoot, the Stowaway",uncommon,,"B, G",Legendary Creature — Fungus,"CMM, DOM, PDOM, PLST, SLD, TSR",9b955b3f-2232-5165-841c-cacd3f47336d
+"Tatyova, Benthic Druid",uncommon,,"G, U",Legendary Creature — Merfolk Druid,"CMM, DMR, DOM, LCC, PDOM, PLST",ff4a112d-29cc-59e3-88ce-a426ea7af4c0
+Teysa Karlov,rare,,"B, W",Legendary Creature — Human Advisor,"CMM, MUL, PRNA, RNA, SLD",36a9af11-0631-52a3-9ae6-921feca3fca6
+Tuya Bearclaw,uncommon,,"G, R",Legendary Creature — Human Warrior,"CMM, CMR, PRM",9321d260-7794-577f-868b-6d98ce6a337d
+"Zacama, Primal Calamity",rare,,"G, R, W",Legendary Creature — Elder Dinosaur,"CMM, LCC, PJ21, PLST, PRIX, RIX",db36370b-bfc2-5e54-9619-f39e72461825
+"Zilortha, Strength Incarnate",rare,,"G, R",Legendary Creature — Dinosaur,"CMM, IKO",ca5e7e6d-850d-540a-a747-9867dda8706d
+Sliver Hivelord,mythic,,"B, G, R, U, W",Legendary Creature — Sliver,"CMM, EA2, M15, PLST, SLD",b7bd9379-9347-5983-9957-b2d7536c057c
+"Akroma, Vision of Ixidor",mythic,,W,Legendary Creature — Angel,"CMR, PRM",4695aee9-5eac-5750-ba4f-a21691057ce4
+"Ardenn, Intrepid Archaeologist",uncommon,,W,Legendary Creature — Kor Scout,"CMR, PRM",99b4f253-6462-529e-b504-ef73f8514414
+"Livio, Oathsworn Sentinel",rare,,W,Legendary Creature — Human Knight,"CMR, PRM",cd9dc06b-6a37-550c-be22-4355f0841452
+Prava of the Steel Legion,uncommon,,W,Legendary Creature — Cat Soldier,"CMR, ONC, PRM",e127fbfe-1e0f-57aa-a205-2f2a41de09e4
+"Radiant, Serra Archangel",uncommon,,W,Legendary Creature — Angel,"CMR, PRM",9d0e9ec7-04d5-5634-b73c-5825eea62806
+"Rebbec, Architect of Ascension",uncommon,,W,Legendary Creature — Human Artificer,"CMR, PRM",dc7fa984-26d6-5d56-b9ca-1020b0737c09
+"Eligeth, Crossroads Augur",rare,,U,Legendary Creature — Sphinx,"CMR, PRM",b3aaf6e3-840b-597b-b91c-b34547929164
+"Esior, Wardwing Familiar",uncommon,,U,Legendary Creature — Bird,"CMR, PRM",a2968510-709d-54fe-b793-60f03b8301c4
+"Glacian, Powerstone Engineer",uncommon,,U,Legendary Creature — Human Artificer,"CMR, PLST, PRM",67869983-0d49-5922-aa93-6f7c0cdeaff1
+"Malcolm, Keen-Eyed Navigator",uncommon,,U,Legendary Creature — Siren Pirate,"CMR, LCC, PRM, SPG",bc1239f8-8007-5db7-a11e-a5dd47b51a95
+Sakashima of a Thousand Faces,mythic,,U,Legendary Creature — Human Rogue,"CMR, PRM, SLD",009e6685-ebc6-5091-8c91-9fb33307ed1b
+"Siani, Eye of the Storm",uncommon,,U,Legendary Creature — Djinn Monk,"CMR, PRM",6c054fa9-eb18-5f36-80c0-a07f90d7341a
+"Falthis, Shadowcat Familiar",uncommon,,B,Legendary Creature — Nightmare Cat,"CMR, PRM",91496316-74be-5a0b-b418-e7d45e467274
+"Keskit, the Flesh Sculptor",uncommon,,B,Legendary Creature — Human Artificer,"CMR, MOC, PRM",bdd9052c-faea-54ee-b3a3-e580de04706f
+"Miara, Thorn of the Glade",uncommon,,B,Legendary Creature — Elf Scout,"CMR, KHC, PRM",7e68a0b5-e3bc-5e34-bdec-c6c7f5aaa6dd
+"Nadier, Agent of the Duskenel",uncommon,,B,Legendary Creature — Elf Warrior,"CMR, PRM",d19616df-f0da-5d66-b81a-7c75fd08c01a
+"Sengir, the Dark Baron",rare,,B,Legendary Creature — Vampire Noble,"CMR, PRM",738e4e5c-64ca-5eed-9394-a48916e3de8e
+"Tormod, the Desecrator",uncommon,,B,Legendary Creature — Zombie Wizard,"CMR, PRM",3b193a3f-155e-59dc-8832-c0b5a620bd2d
+"Alena, Kessig Trapper",uncommon,,R,Legendary Creature — Human Scout,"CMR, PRM",d6a21294-4584-5d5d-998a-cb0c4cd2117d
+"Breeches, Brazen Plunderer",uncommon,,R,Legendary Creature — Goblin Pirate,"CMR, LCC, PRM, SPG",651b7da2-c120-5876-b644-ea0de93ff480
+"Dargo, the Shipwrecker",uncommon,,R,Legendary Creature — Giant Pirate,"CMR, PRM, SPG",f02ab4c4-b512-53e7-b961-1e3c3fc5e942
+"Kediss, Emberclaw Familiar",uncommon,,R,Legendary Creature — Elemental Lizard,"CMR, PRM",f3f5f0de-68c9-59e4-ab61-77b58b2afb1e
+"Krark, the Thumbless",rare,,R,Legendary Creature — Goblin Wizard,"CMR, PLST, PRM, SLD",2704f6ad-6741-5194-9bf7-459d6b4c5b8b
+"Rograkh, Son of Rohgahh",uncommon,,R,Legendary Creature — Kobold Warrior,"CMR, PRM, SLD",379be6bc-f2ec-50ef-b815-f2c1d3ff867f
+"Toggo, Goblin Weaponsmith",uncommon,,R,Legendary Creature — Goblin Artificer,"CMR, PRM",a2eaff0d-7ba6-544c-875c-02c26001a887
+"Anara, Wolvid Familiar",uncommon,,G,Legendary Creature — Wolf Beast,"CMR, PRM",a6643f91-5c8f-549b-b955-12a83d1560d0
+"Gilanra, Caller of Wirewood",uncommon,,G,Legendary Creature — Elf Druid,"CMR, PRM",55b71f80-36b8-57ba-8b2f-2d4db81c9b09
+"Halana, Kessig Ranger",uncommon,,G,Legendary Creature — Human Archer,"CMR, PRM",a836295d-4af9-5590-a83c-49b39abde7a8
+"Ich-Tekik, Salvage Splicer",uncommon,,G,Legendary Creature — Human Artificer,"CMR, PRM",9767c0a3-2584-5383-8eeb-6873f4f20ba6
+"Kamahl, Heart of Krosa",mythic,,G,Legendary Creature — Human Druid,"CMR, PRM",81a66020-9905-509d-8285-acb9d3bda6d5
+Kodama of the East Tree,rare,,G,Legendary Creature — Spirit,"CMR, PRM",472d5072-f952-5115-81f5-5d0d3d1adf06
+"Numa, Joraga Chieftain",uncommon,,G,Legendary Creature — Elf Warrior,"CMR, KHC, PRM",02dc8039-bc77-5c65-9654-8cdffc350880
+"Slurrk, All-Ingesting",uncommon,,G,Legendary Creature — Ooze,"CMR, MOC, PRM",cee16c13-ece0-5b53-83bc-bcbeb211fe98
+Abomination of Llanowar,uncommon,,"B, G",Legendary Creature — Elf Horror,"CMR, HA4, KHC, PRM",825c7b44-9ad0-57c6-ae6e-cc2213fb027c
+"Amareth, the Lustrous",rare,,"G, U, W",Legendary Creature — Dragon,"CMR, PRM",9f3f136a-5fcd-5862-aa93-446131f59c69
+Araumi of the Dead Tide,uncommon,,"B, U",Legendary Creature — Merfolk Wizard,"CMR, PRM",ca25fdd8-2459-59b5-ad06-c7576a46e6ad
+"Archelos, Lagoon Mystic",rare,,"B, G, U",Legendary Creature — Turtle Shaman,"CMR, DMC, PRM",b772f271-3685-5b83-bf3c-d2f1e0f11b78
+"Averna, the Chaos Bloom",rare,,"G, R, U",Legendary Creature — Elemental Shaman,"CMR, PRM",92f9d565-c101-5788-8aff-77ab21e0e60d
+"Belbe, Corrupted Observer",rare,,"B, G",Legendary Creature — Zombie Elf,"CMR, PRM",ed1fe3f2-0fa2-5ab3-b691-272f4fcb2389
+"Bell Borca, Spectral Sergeant",rare,,"R, W",Legendary Creature — Spirit Soldier,"CMR, DMC, PRM",8f8bc5cc-80a6-5591-a149-15dfdac5acee
+"Blim, Comedic Genius",rare,,"B, R",Legendary Creature — Imp,"CMR, PRM",316658fe-3692-5597-9f3b-e0f480048c3d
+Captain Vargus Wrath,uncommon,,"R, U",Legendary Creature — Orc Pirate,"CMR, PRM",dfc36f44-84ca-5336-893c-f9ad2f4473dd
+"Colfenor, the Last Yew",rare,,"B, G, W",Legendary Creature — Treefolk Shaman,"CMR, PRM",82e67a3d-7767-59df-b2d2-1dcdb22b94ba
+"Ghen, Arcanum Weaver",rare,,"B, R, W",Legendary Creature — Human Wizard,"CMR, PRM",044a4d3a-f1bc-5be9-9425-729a251286b7
+"Gnostro, Voice of the Crags",rare,,"R, U, W",Legendary Creature — Chimera,"CMR, PRM",899bbb9b-a96a-5e0e-83f6-4f1e10f9298e
+"Gor Muldrak, Amphinologist",rare,,"G, U",Legendary Creature — Human Scout,"CMR, PRM",27963f4c-79ea-5ffc-b78f-9c2750b6fddc
+Hans Eriksson,rare,,"G, R",Legendary Creature — Human Scout,"CMR, PLST, PRM",5aa3b5e8-0c4d-50fd-b42b-359987aceabd
+"Imoti, Celebrant of Bounty",uncommon,,"G, U",Legendary Creature — Naga Druid,"CMR, MUL, PRM",dea1a751-fed6-5028-8080-fcf4f4fa941b
+"Jared Carthalion, True Heir",rare,,"G, R, W",Legendary Creature — Human Warrior,"CMR, PLST, PRM",90ce43e8-9fb5-5ae7-90d0-410589863c8a
+"Juri, Master of the Revue",uncommon,,"B, R",Legendary Creature — Human Shaman,"CMR, MUL, PRM",cefab359-da22-5336-9825-4d29307f191c
+"Kangee, Sky Warden",uncommon,,"U, W",Legendary Creature — Bird Wizard,"CMR, PRM, SCD",30a83050-6532-5c15-a64f-10d4c87ef12f
+"Kwain, Itinerant Meddler",rare,,"U, W",Legendary Creature — Rabbit Wizard,"CMR, PL23, PRM",73a0eba2-d474-56e7-bcdd-6bbec7216379
+"Lathiel, the Bounteous Dawn",rare,,"G, W",Legendary Creature — Unicorn,"CMR, MUL, PRM",8003cd1e-c697-556a-b093-e95035447b90
+"Liesa, Shroud of Dusk",rare,,"B, W",Legendary Creature — Angel,"CMR, PRM",c3d19769-e390-5ce3-aa5b-18a978fd310b
+"Nevinyrral, Urborg Tyrant",rare,,"B, U, W",Legendary Creature — Zombie Wizard,"CMR, PRM",c380b206-8845-5af8-9c9d-2bc89df9089b
+"Nymris, Oona's Trickster",rare,,"B, U",Legendary Creature — Faerie Knight,"CMR, PRM, WOC",08fcc5d2-bbcf-56a9-946f-9417f92d44e6
+"Obeka, Brute Chronologist",rare,,"B, R, U",Legendary Creature — Ogre Wizard,"CMR, PRM, SLD",518599e3-c707-5600-973d-da0ad158efeb
+"Reyav, Master Smith",uncommon,,"R, W",Legendary Creature — Dwarf Artificer,"CMR, MUL, PLST, PRM",5d5612f7-e556-550a-9de9-8ed745b35f46
+"Thalisse, Reverent Medium",uncommon,,"B, W",Legendary Creature — Human Cleric,"CMR, PRM",fd1322ce-57b8-511e-9b39-64ff84ebda86
+Yurlok of Scorch Thrash,rare,,"B, G, R",Legendary Creature — Viashino Shaman,"CMR, PRM",0fba90e8-f8a6-534b-8d0c-096f5ff4d116
+"Zara, Renegade Recruiter",rare,,"R, U",Legendary Creature — Human Pirate,"CMR, LCC, PRM",602a6f5f-f8f6-5ae9-804b-7ef20433169e
+"Wyleth, Soul of Steel",mythic,,"R, W",Legendary Creature — Human Warrior,CMR,e09f4e6f-a618-5a8d-814e-8391cdec5566
+"Aesi, Tyrant of Gyre Strait",mythic,,"G, U",Legendary Creature — Serpent,CMR,e183c2a8-549b-59d5-9063-f14bb619ca65
+"Nezahal, Primal Tide",rare,,U,Legendary Creature — Elder Dinosaur,"CMR, HBG, PLST, PRIX, RIX, SLD",0da28cae-c6ec-5f43-8015-cdac21058bc7
+"Slinn Voda, the Rising Deep",uncommon,,U,Legendary Creature — Leviathan,"CMR, DOM, PDOM",00ad5bf1-ebd6-54cc-b5bd-9cbba4eb101d
+"Tiana, Ship's Caretaker",uncommon,,"R, W",Legendary Creature — Angel Artificer,"CMR, DMR, DOM, PDOM",d8b615f2-706f-57e6-9574-524853668264
+"Brago, King Eternal",mythic,,"U, W",Legendary Creature — Spirit Noble,"CMR, CNS, EMA, KHC, PLST, PRM, VMA",51036a18-d7f7-5e0a-afd0-a83ba234db0e
+"Rakdos, Lord of Riots",mythic,,"B, R",Legendary Creature — Demon,"CMR, GK2, PRM, RTR, RVR",0211c102-fc7f-5033-b372-782d1be6e145
+Kami of the Crescent Moon,rare,,U,Legendary Creature — Spirit,"CN2, SLD, SOK, VOC",ca80dec6-beeb-5425-b5f4-66c3393d712a
+Progenitus,mythic,,"B, G, R, U, W",Legendary Creature - Hydra Avatar,"CON, MMA, PGPX, PLST, SLD, V11",83704f1a-b85d-5671-9d82-d6066c01201c
+"Haakon, Stromgald Scourge",rare,,B,Legendary Creature - Zombie Knight,"CSP, MOC, PLST",b9f9e43d-a9fb-585b-bf9f-f6c2924b17c7
+Lovisa Coldeyes,rare,,R,Legendary Creature - Human Lord,"CSP, DDS, PLST, PSAL, PZ2",aed8cb47-47e7-5572-88e1-f01f4cee41ba
+"Ib Halfheart, Goblin Tactician",rare,,R,Legendary Creature - Goblin Advisor,"DD1, EVG, J22, PLST, TSP",4d8d0645-c0c9-56c1-9db5-f1e386b3f187
+"Rith, the Awakener",rare,,"G, R, W",Legendary Creature — Dragon,"DDE, DMR, DRB, INV, PLST",0b8541fc-484c-55f8-a087-a89b67f85f54
+Anax and Cymede,rare,,"R, W",Legendary Creature — Human Soldier,"DDL, PLST, THS",82e49192-eda1-5127-a876-6fd455853dde
+"Polukranos, World Eater",mythic,,G,Legendary Creature — Hydra,"DDL, PLST, THS",c49830f7-7405-50bc-98c4-cef47e9bdf47
+Jhoira of the Ghitu,mythic,,"R, U",Legendary Creature — Human Wizard,"DDS, FUT, MMA, PLST, PZ2, TSR",7a17024f-31dc-5132-9f9f-c8723e872a97
+"Radha, Heir to Keld",rare,,"G, R",Legendary Creature — Elf Warrior,"DDS, DMR, PLC, TSR",94628f32-7893-58bc-9167-300e837e487a
+"Dwynen, Gilt-Leaf Daen",rare,,G,Legendary Creature — Elf Warrior,"DDU, KHC, ORI, PORI, PRM",2b3358b9-afae-58fb-b4b1-9d02fe3e5927
+"Yeva, Nature's Herald",rare,,G,Legendary Creature — Elf Shaman,"DDU, M13, RVR, SLD",62b4128b-f818-544d-b582-579b9823e838
+Pia and Kiran Nalaar,rare,,R,Legendary Creature — Human Artificer,"DDU, MOC, ORI, PLST, PORI, PRM",a64015f3-6177-5299-8e7e-0879eb8af068
+"Tajic, Blade of the Legion",rare,,"R, W",Legendary Creature — Human Soldier,"DGM, DMC",effd998a-2628-5543-83fb-3427e5468ed9
+"Elbrus, the Binding Blade // Withengar Unbound",mythic,0.0,B,Legendary Creature — Demon,"DKA, PLST, V17",5b2da00b-8ae3-5a52-b377-163555853a69
+"Jenson Carthalion, Druid Exile",mythic,,"G, W",Legendary Creature — Human Druid,DMC,0deb6ee7-2ef0-5903-8cd4-e0c6450d3262
+"Shanid, Sleepers' Scourge",mythic,,"B, R, W",Legendary Creature — Human Knight,DMC,b76635c0-5aa5-5b48-bb10-d8491d5fe6a4
+"Zeriam, Golden Wind",rare,,W,Legendary Creature — Griffin,DMC,d4dbf1e8-4306-5f38-ae08-46a865d76115
+"Moira, Urborg Haunt",rare,,B,Legendary Creature — Spirit Wizard,DMC,1c98cff5-7698-540e-af70-3631009286ab
+"Bladewing, Deathless Tyrant",rare,,"B, R",Legendary Creature — Dragon Skeleton,DMC,edcb7ca0-c412-55f0-9dd0-15fe725c8456
+"Cadric, Soul Kindler",rare,,"R, W",Legendary Creature — Dwarf Wizard,DMC,ece19066-eab7-5f57-9a3c-d83172ef14fe
+"Verrak, Warped Sengir",rare,,"B, W",Legendary Creature — Vampire,DMC,aae96d9a-54b1-58f9-b64c-ddd752119bae
+Emperor Mihail II,rare,,U,Legendary Creature — Merfolk Noble,"DMC, LCC",2c0df630-4e8f-5406-98d1-47383625ec2d
+"Rosnakht, Heir of Rohgahh",rare,,R,Legendary Creature — Kobold Warrior,DMC,aeafcdbd-159b-52c5-ad91-f6e21a64e745
+"Baru, Wurmspeaker",rare,,G,Legendary Creature — Human Druid,DMC,bb0aceb4-4844-5d5b-adfc-1d206b619f13
+"Greensleeves, Maro-Sorcerer",mythic,,G,Legendary Creature — Elemental,"DMC, PLST",0abb2af8-915b-5b53-a952-4b3641d38a36
+"Ayesha Tanaka, Armorer",rare,,"U, W",Legendary Creature — Human Artificer,DMC,4ed56242-2b89-569b-820a-32f7b7f9c6f2
+The Ever-Changing 'Dane,rare,,"B, U, W",Legendary Creature — Shapeshifter,DMC,4e75ef67-5c8f-5d0b-b64b-7ad92fab4ff5
+General Marhault Elsdragon,uncommon,,"G, R",Legendary Creature — Elf Warrior,DMC,c6dae3ee-13bd-5c62-8408-c4a9e4b3ece5
+"Hazezon, Shaper of Sand",rare,,"G, R, W",Legendary Creature — Human Warrior,"DMC, OTC",e6a3bef8-0c46-5308-a8b8-3fd8330fad7b
+Jasmine Boreal of the Seven,uncommon,,"G, W",Legendary Creature — Human Druid,DMC,dfced1a0-bae8-561a-a552-03345a763930
+"Jedit Ojanen, Mercenary",mythic,,"U, W",Legendary Creature — Cat Mercenary,DMC,023da185-3849-50c5-98c2-8e8e8a5f9cf1
+The Lady of Otaria,mythic,,"G, R",Legendary Creature — Avatar,DMC,8b37556f-3907-5a70-84c2-07352ba7e83f
+Ohabi Caleria,rare,,"G, W",Legendary Creature — Elf Archer,DMC,9006b1e6-0113-59de-9825-13a1c6594b96
+"Orca, Siege Demon",rare,,"B, R",Legendary Creature — Demon,DMC,7429dd3b-4a48-5119-b985-b1df44deed4b
+"Ramirez DePietro, Pillager",uncommon,,"B, U",Legendary Creature — Human Pirate,"DMC, LCC",98ae05eb-6685-51d7-a304-cdbe30f1fe56
+"Ramses, Assassin Lord",rare,,"B, U",Legendary Creature — Human Assassin,DMC,d3d8324d-1d00-5782-a66d-0c2aa35f286b
+"Rasputin, the Oneiromancer",rare,,"U, W",Legendary Creature — Human Wizard,DMC,204fa681-fcb0-5b2d-9960-080fece916e5
+"Rohgahh, Kher Keep Overlord",rare,,"B, R",Legendary Creature — Kobold Warrior,DMC,3e65abe0-f64f-52db-b504-c5b3e2909c87
+"Stangg, Echo Warrior",rare,,"G, R",Legendary Creature — Human Warrior,DMC,a33c47a9-dd5e-5406-b188-a697d75d8451
+"Tetsuo, Imperial Champion",mythic,,"B, R, U",Legendary Creature — Human Samurai,DMC,7dc5c660-cd97-5323-972e-38ae33954196
+"Tobias, Doomed Conqueror",uncommon,,"U, W",Legendary Creature — Human Soldier,DMC,e8c4ad04-acf8-5df9-8b6c-1f0412b9d8f8
+Tor Wauki the Younger,uncommon,,"B, R",Legendary Creature — Human Archer,DMC,59a5e4ae-fd72-5e55-93aa-2e1d63f22df4
+"Torsten, Founder of Benalia",mythic,,"G, W",Legendary Creature — Human Soldier,DMC,78112915-b345-5ed3-815a-fca52038dffa
+"Xira, the Golden Sting",rare,,"B, G, R",Legendary Creature — Insect Assassin,DMC,5ab64906-e266-5cbb-8849-74af4941f209
+"Josu Vess, Lich Knight",rare,,B,Legendary Creature — Zombie Knight,"DMC, DOM, MOC, PDOM, SCD",4fc40360-d8f1-5b80-9a80-5bbfe205783d
+"Kothophed, Soul Hoarder",rare,,B,Legendary Creature — Demon,"DMC, J22, ORI, PORI, PRM, SLD",e16b3c9d-3b87-56e8-b8e8-925f41e1b55e
+Captain Lannery Storm,rare,,R,Legendary Creature — Human Pirate,"DMC, J22, LCC, MUL, OTC, PXLN, SLD, XLN",69af81cb-5c18-5829-83e4-19dc94fe834d
+"Krenko, Tin Street Kingpin",rare,,R,Legendary Creature — Goblin,"DMC, MOC, NEC, PLST, PWAR, SLD, WAR",8183f323-0f97-5d2f-968e-dbf1c7944f94
+"Neheb, Dreadhorde Champion",rare,,R,Legendary Creature — Zombie Minotaur Warrior,"DMC, PRES, PWAR, WAR",43bde41d-86c4-53ec-adb8-c1d505f8dac2
+Arvad the Cursed,uncommon,,"B, W",Legendary Creature — Vampire Knight,"DMC, DOM, MOC, PDOM",b4531e4b-e329-5029-9836-b3feba6216c5
+"Illuna, Apex of Wishes",mythic,,"G, R, U",Legendary Creature — Beast Elemental Dinosaur,"DMC, IKO, PIKO, PRM",1a0a7a0e-016c-5239-b9c5-b4ab2f8ac595
+"Nethroi, Apex of Death",mythic,,"B, G, W",Legendary Creature — Cat Nightmare Beast,"DMC, IKO, PIKO, PRM",c3473d3b-c8f9-5d55-9327-b784f21901e1
+"Rienne, Angel of Rebirth",mythic,,"G, R, W",Legendary Creature — Angel,"DMC, M20",0d030be1-c757-5d7d-bd8b-aa6dc50e0888
+Surrak Dragonclaw,mythic,,"G, R, U",Legendary Creature — Human Warrior,"DMC, KTK, PKTK",e0696bd0-9e1b-52a2-a794-cc7cc1981534
+Lieutenant Kirtar,rare,,W,Legendary Creature — Bird Soldier,"DMR, ODY",0bff34c9-6f97-51ae-a150-4a156772985a
+Lyra Dawnbringer,mythic,,W,Legendary Creature — Angel,"DMR, DOM, J22, PDOM",82d7d15f-bc46-5804-9dce-ed8c902628cc
+"Yawgmoth, Thran Physician",mythic,,B,Legendary Creature — Human Cleric,"DMR, J21, MH1, TSR",7fb06063-3cbb-56de-811d-eab8e92698ad
+Pashalik Mons,rare,,R,Legendary Creature — Goblin Warrior,"DMR, J21, MH1",603996b8-8bf3-5b93-a2e5-0ff2e46825e4
+Arcades Sabboth,rare,,"G, U, W",Legendary Creature — Elder Dragon,"BCHR, CHR, DMR, LEG, ME3, SLD",8142dc35-fb2e-55bc-99a5-5d7d94b39675
+Sol'kanar the Swamp King,rare,,"B, R, U",Legendary Creature — Demon,"BCHR, CHR, DMR, LEG, OLEP, TSB",421795b1-1c5c-51ce-a80a-de18583ce15b
+Xira Arien,rare,,"B, G, R",Legendary Creature — Insect Wizard,"BCHR, CHR, DMR, LEG, ME3, TD0",16bec147-39c1-506f-adf3-27d1d883aaa4
+"Elas il-Kor, Sadistic Pilgrim",uncommon,,"B, W",Legendary Creature — Phyrexian Kor Cleric,"DMU, PLST",a89e8ae0-fd52-5b42-b900-25bcec075ed1
+"Radha, Coalition Warlord",uncommon,,"G, R",Legendary Creature — Elf Warrior,"DMU, MUL",b4d62ee8-d114-5aed-9a66-e22c4926a76c
+"Raff, Weatherlight Stalwart",uncommon,,"U, W",Legendary Creature — Human Wizard,"DMU, MUL",30d829e2-f260-51f7-a9b2-e33ae6b58b04
+"Rona, Sheoldred's Faithful",uncommon,,"B, U",Legendary Creature — Human Wizard,"DMU, MUL",7229b499-1e54-56d3-b2e5-258055a9ed04
+"Evra, Halcyon Witness",rare,,W,Legendary Creature — Avatar,"DOM, PDOM, PLST",f605ad25-b192-53d6-ba21-4841687a658e
+"Kwende, Pride of Femeref",uncommon,,W,Legendary Creature — Human Knight,"DOM, J22, MUL, PDOM",5086456d-1c92-518f-ac43-c4ef080a00bb
+"Shalai, Voice of Plenty",rare,,W,Legendary Creature — Angel,"DOM, PDOM, SLD, WOC",95b8b513-12eb-54ca-9ed8-9a62ab5a2f6c
+"Squee, the Immortal",rare,,R,Legendary Creature — Goblin,"DOM, MUL, NCC, PDOM",5e356aff-7c5d-5411-ad67-ecf143b03e46
+"Marwyn, the Nurturer",rare,,G,Legendary Creature — Elf Druid,"DOM, KHC, PDOM",d0f214fe-fe7e-5314-8bc6-f2313cf03058
+"Multani, Yavimaya's Avatar",mythic,,G,Legendary Creature — Elemental Avatar,"DOM, PDOM, ZNC",e2c35a48-c336-5b62-82ec-d339fe7b1e0c
+"Adeliz, the Cinder Wind",uncommon,,"R, U",Legendary Creature — Human Wizard,"DOM, PDOM, PLST",f8397d62-ca19-5877-9d62-fad9a78d0a42
+"Shanna, Sisay's Legacy",uncommon,,"G, W",Legendary Creature — Human Warrior,"DOM, MUL, PDOM, PRM",887bc22b-2ced-5d22-bfc3-a527ed9cbc7a
+"Sidisi, Undead Vizier",rare,,B,Legendary Creature — Zombie Naga,"DTK, PDTK, PLST",e93dd219-9064-5f86-8028-a965fc759074
+Dragonlord Atarka,mythic,,"G, R",Legendary Creature — Elder Dragon,"DTK, P30A, PDTK, PLST",bb56cadb-a79f-54d7-92a0-d4f05ee68582
+Dragonlord Ojutai,mythic,,"U, W",Legendary Creature — Elder Dragon,"DTK, NCC, PDTK, PLST, SLC",db22b048-ecbd-5498-b187-b0ea184f9cdb
+"Braids, Cabal Minion",rare,,B,Legendary Creature — Human Minion,"EMA, MH2, ODY",2e7bbd6e-6a1e-5f7e-9d54-f6574dc23a7b
+"Silvos, Rogue Elemental",rare,,G,Legendary Creature — Elemental,"EMA, ONS, PLST, VMA",872cbe9c-0384-50c8-a2df-bbcf45198de1
+"Ishkanah, Grafwidow",mythic,,G,Legendary Creature — Spider,"EMN, LTC, PEMN, PLST, SIR",9305bd16-2e28-5e4f-bddd-c3feb6e73eb6
+Gisa and Geralf,mythic,,"B, U",Legendary Creature — Human Wizard,"EMN, MIC, PEMN, PLST, SCD, SIR",8bd69452-02c6-5e1c-9594-4d9dea373fe8
+"Korlash, Heir to Blackblade",rare,,B,Legendary Creature - Zombie Warrior,"FUT, PFUT, PLST, PRM",a3a28617-28c6-5344-92ad-39cf7b9b0b54
+"Lazav, Dimir Mastermind",mythic,,"B, U",Legendary Creature — Shapeshifter,"GK1, GTC, ZNC",263b89a8-f0af-5820-8986-a9c43e02e3e1
+"Savra, Queen of the Golgari",rare,,"B, G",Legendary Creature — Elf Shaman,"GK1, RAV, RVR, SLD",3305ec65-6461-55c8-9db6-19e0f971823d
+Tolsimir Wolfblood,rare,,"G, W",Legendary Creature — Elf Warrior,"GK1, PSAL, RAV, RVR",4df9baad-91d8-55d3-b585-4098f61b5f89
+"Teysa, Orzhov Scion",rare,,"B, W",Legendary Creature — Human Advisor,"GK2, GPT, RVR",22b1f0cc-0e65-56a8-834f-afe1a19d4310
+"Zegana, Utopian Speaker",rare,,"G, U",Legendary Creature — Merfolk Wizard,"GK2, LCC, PRNA, RNA",4da7ff4d-3174-529b-aee1-d82a37146f7c
+"Lathliss, Dragon Queen",rare,,R,Legendary Creature — Dragon,"GN2, J22, JMP, M19, PLST, PM19, PRES, SLD",9f1c499f-8aec-5bff-8fb5-b271c061cbd0
+"Aurelia, Exemplar of Justice",mythic,,"R, W",Legendary Creature — Angel,"GRN, PGRN, RVR",62cbbd6e-0b9f-5d86-bd36-541e9a60bc29
+"Emmara, Soul of the Accord",rare,,"G, W",Legendary Creature — Elf Cleric,"GRN, PGRN, PLST, PRM, SCD",41e731d9-eaf6-5c30-84df-2c30ebb15312
+"Lazav, the Multifarious",mythic,,"B, U",Legendary Creature — Shapeshifter,"GRN, MKC, PGRN, PLST, RVR",99d3110e-bdd3-576e-b261-16c47efcdc66
+"Tajic, Legion's Edge",rare,,"R, W",Legendary Creature — Human Soldier,"GRN, PGRN, RVR",05529d8e-db22-5193-8ead-04e5c6dd835b
+Borborygmos Enraged,mythic,,"G, R",Legendary Creature — Cyclops,"GTC, PLST, RVR",f5a22037-cf5a-54e8-bf1b-1e3e5907244c
+"Elesh Norn, Grand Cenobite",mythic,,W,Legendary Creature — Phyrexian Praetor,"HA5, IMA, J14, MM2, MUL, NPH, PLST, PRM, SLD",f6d90436-54ff-57a8-a056-9173159788d4
+"Jin-Gitaxias, Core Augur",mythic,,U,Legendary Creature — Phyrexian Praetor,"HA5, IMA, MUL, NPH, PLST, SLD",f096fd5b-653b-52d6-8e98-84b275db57f2
+"Sheoldred, Whispering One",mythic,,B,Legendary Creature — Phyrexian Praetor,"HA5, IMA, JMP, MUL, NPH, PLST, PNPH, PRM, SLD",61b422e5-4ea6-5f83-966e-51ace7574cc6
+"Vorinclex, Voice of Hunger",mythic,,G,Legendary Creature — Phyrexian Praetor,"HA5, IMA, MUL, NPH, PLST, SLD",bd7cffbb-6a2f-54a8-b1df-bd3bf355dbc6
+"Ob Nixilis, the Fallen",mythic,,B,Legendary Creature — Demon,"IMA, PLST, ZEN",cbd981ba-7d0d-5c1a-9e18-74780cab8b1d
+Rosheen Meanderer,uncommon,,"G, R",Legendary Creature — Giant Shaman,"IMA, PLST, SHM",0c1a2bac-c9cd-5e30-8959-09ca1d50f752
+"Grimgrin, Corpse-Born",mythic,,"B, U",Legendary Creature — Zombie Warrior,"ISD, MUL, OCM1, SLD",83039e0c-241b-5e45-aedb-ecc6e8d363b6
+"Alandra, Sky Dreamer",rare,,U,Legendary Creature — Merfolk Wizard,"J22, MKC",82ad647b-f5e6-57ac-9794-748db01fb0a8
+"Michiko Konda, Truth Seeker",rare,,W,Legendary Creature — Human Advisor,"J22, PLST, SLD, SOK",db7f977e-1b1c-52e0-921d-b6ffb29bc137
+"Taranika, Akroan Veteran",rare,,W,Legendary Creature — Human Soldier,"J22, PRM, PTHB, THB",b88090e3-f8d5-50bd-9a3d-910c521eede8
+Svyelun of Sea and Sky,mythic,,U,Legendary Creature — Merfolk God,"J21, J22, LCC, MH2, PMH2, PRM",c8d92935-a9fa-5604-a0d2-be60eff31116
+"Syr Elenora, the Discerning",uncommon,,U,Legendary Creature — Human Knight,"ELD, J22, MOC, PLST",0e3d2337-87ee-5191-b44d-c6c65bd5e329
+"Syr Konrad, the Grim",uncommon,,B,Legendary Creature — Human Knight,"ELD, J22, MKC, MOC, PLST, PW23, SLD, ZNC",5adae475-4597-543b-89bd-4c929fe42fbe
+"Yidaro, Wandering Monster",rare,,R,Legendary Creature — Dinosaur Turtle,"IKO, J22, PIKO, PLST, PRM",7998ada8-77d4-5434-8285-084fc351151a
+"Lathril, Blade of the Elves",mythic,,"B, G",Legendary Creature — Elf Noble,"KHC, PRES",3991d388-f3ef-56b6-ae17-bdaf719a8e42
+Ranar the Ever-Watchful,mythic,,"U, W",Legendary Creature — Spirit Warrior,KHC,156dbe1e-3c66-5188-a6b9-08eb863a80ff
+Rhys the Exiled,rare,,G,Legendary Creature — Elf Warrior,"KHC, MOR",7fcef73b-05e3-5f02-aa29-bd1a5e2fa9c8
+"Admiral Brass, Unsinkable",mythic,,"B, R, U",Legendary Creature — Human Pirate,LCC,2f99f943-6652-5021-8a7f-fa8f0a7ef1c0
+"Clavileño, First of the Blessed",mythic,,"B, W",Legendary Creature — Vampire Cleric,LCC,6044c741-54ad-5912-8460-a1f484a9c62c
+Hakbal of the Surging Soul,mythic,,"G, U",Legendary Creature — Merfolk Scout,LCC,60864bc5-74d0-52ef-8939-ac1b883f490d
+"Pantlaza, Sun-Favored",mythic,,"G, R, W",Legendary Creature — Dinosaur,LCC,f30440b2-61ff-5743-b80a-f2b292c3a053
+"Carmen, Cruel Skymarcher",mythic,,"B, W",Legendary Creature — Vampire Soldier,LCC,a42c2a5e-266e-50d0-9c08-f303989f124c
+"Don Andres, the Renegade",mythic,,"B, R, U",Legendary Creature — Vampire Pirate,LCC,59b48e46-a574-51d2-b712-7832909bb720
+"Wayta, Trainer Prodigy",mythic,,"G, R, W",Legendary Creature — Human Warrior,LCC,04976406-0c15-5230-b171-ed81ac797b71
+"Xolatoyac, the Smiling Flood",mythic,,"G, U",Legendary Creature — Salamander Serpent,LCC,c7a33cc5-abfb-5094-80c5-18f6d73a5b88
+"Xavier Sal, Infested Captain",rare,,"B, G, U",Legendary Creature — Human Fungus Pirate,LCC,5dc479d7-5c2f-56c7-b598-811bfedeb0a9
+"Francisco, Fowl Marauder",rare,,B,Legendary Creature — Bird Pirate,LCC,ecba0d60-7a21-5329-b746-cef3ac72efa9
+"Mavren Fein, Dusk Apostle",rare,,W,Legendary Creature — Vampire Cleric,"LCC, PXLN, XLN",43cb032c-f577-525e-b40b-a20116f7e779
+"Kopala, Warden of Waves",rare,,U,Legendary Creature — Merfolk Wizard,"LCC, PXLN, XLN",93b0ced1-d9ed-52a9-880f-4ad01b357b0f
+"Timothar, Baron of Bats",mythic,,B,Legendary Creature — Vampire Noble,"LCC, VOC",7c73606f-5870-5e80-b0b3-5ab0a1c0b2d2
+Admiral Beckett Brass,mythic,,"B, R, U",Legendary Creature — Human Pirate,"LCC, PLST, PXLN, SLD, XLN",1cf1f0b5-0719-56b8-af4a-6c4a51bcf31c
+"Kumena, Tyrant of Orazca",mythic,,"G, U",Legendary Creature — Merfolk Shaman,"LCC, PRIX, RIX, SLD",b8ff834a-644f-5914-bebd-ec1368b4e7d6
+"Tishana, Voice of Thunder",mythic,,"G, U",Legendary Creature — Merfolk Shaman,"LCC, PXLN, XLN",98223687-96da-509b-b23e-c6e416593409
+"Vona, Butcher of Magan",mythic,,"B, W",Legendary Creature — Vampire Knight,"LCC, MOC, PXLN, SLD, XLN",7ebb039b-c404-5a96-a43f-76ccaabb84f1
+"Akal Pakal, First Among Equals",rare,,U,Legendary Creature — Human Advisor,"LCI, PLCI",8e1d7eca-f254-5b53-bf02-56d81c1b19f9
+"Malcolm, Alluring Scoundrel",rare,,U,Legendary Creature — Siren Pirate,"LCI, PLCI",e4dba3c8-4cee-5610-8b6c-e933a81b455c
+"Breeches, Eager Pillager",rare,,R,Legendary Creature — Goblin Pirate,"LCI, PLCI",7fb9b8a4-421d-5542-9d93-e0551944dd0f
+"Inti, Seneschal of the Sun",rare,,R,Legendary Creature — Human Knight,"LCI, PLCI",2bdacef4-4c48-53b9-8644-1d890fb4a2bc
+"Ghalta, Stampede Tyrant",mythic,,G,Legendary Creature — Elder Dinosaur,"LCI, PLCI",44f9a407-0765-5b35-a73d-7267770b065c
+"Abuelo, Ancestral Echo",rare,,"U, W",Legendary Creature — Spirit,"LCI, PLCI",bd5e9bd7-ee6d-56dc-b5f1-b2bb05a83ff9
+"Akawalli, the Seething Tower",uncommon,,"B, G",Legendary Creature — Fungus,LCI,5574d56c-59bd-57cc-9def-d191f400278e
+Amalia Benavides Aguirre,rare,,"B, W",Legendary Creature — Vampire Scout,"LCI, PLCI",92e26b32-eea8-5d45-989e-47b7b0c2e33f
+The Ancient One,mythic,,"B, U",Legendary Creature — Spirit God,"LCI, PLCI",92fed694-d3df-538e-9533-68d183aa21a5
+"Anim Pakal, Thousandth Moon",rare,,"R, W",Legendary Creature — Human Soldier,"LCI, PLCI",7ae780f2-759e-50cc-9476-b612f0b7fba3
+Bartolomé del Presidio,uncommon,,"B, W",Legendary Creature — Vampire Knight,LCI,a3e92b17-ceac-5d35-8165-d98bbc66d62b
+Caparocti Sunborn,uncommon,,"R, W",Legendary Creature — Human Soldier,LCI,5499e2d7-3392-57e4-b0bc-ebd3ec3a2296
+"Captain Storm, Cosmium Raider",uncommon,,"R, U",Legendary Creature — Human Pirate,LCI,bd28cd6c-9e22-5e5c-b62c-257991ae2793
+"Gishath, Sun's Avatar",mythic,,"G, R, W",Legendary Creature — Dinosaur Avatar,"LCI, PLCI, PXLN, SLD, XLN",495959e0-860d-5fb6-994b-dc6a85fd002f
+"Itzquinth, Firstborn of Gishath",uncommon,,"G, R",Legendary Creature — Dinosaur,LCI,7c9bedaa-5795-5d34-a3f9-4f56b41a1e9b
+"Kutzil, Malamet Exemplar",uncommon,,"G, W",Legendary Creature — Cat Warrior,LCI,5e6b6b27-9e33-5449-bec6-e9d77b0b079d
+The Mycotyrant,mythic,,"B, G",Legendary Creature — Elder Fungus,"LCI, PLCI",18570bf6-2ef0-55d4-908e-503ce8545322
+"Nicanzil, Current Conductor",uncommon,,"G, U",Legendary Creature — Merfolk Scout,LCI,df7ec6a1-45d7-5d71-b4c2-0de9a20a7347
+"Saheeli, the Sun's Brilliance",mythic,,"R, U",Legendary Creature — Human Artificer,"LCI, PLCI",5cf3c5ed-7a69-52a8-8426-62c3f235a12f
+Sovereign Okinec Ahau,mythic,,"G, W",Legendary Creature — Cat Noble,"LCI, PLCI",6e64e137-2cb5-5ede-a28d-0741f6ffb5c5
+"Uchbenbak, the Great Mistake",uncommon,,"B, U",Legendary Creature — Skeleton Horror,LCI,0dd5f52b-fe94-507a-8de7-282e601739a7
+"Vito, Fanatic of Aclazotz",mythic,,"B, W",Legendary Creature — Vampire Demon,"LCI, PLCI",0532b7be-82cd-57ec-9bcb-3cc332a60db0
+Zoyowa Lava-Tongue,uncommon,,"B, R",Legendary Creature — Goblin Warlock,LCI,b0a4f156-f40c-55a0-a1d2-60bafbdf6e52
+"Éowyn, Shieldmaiden",mythic,,"R, U, W",Legendary Creature — Human Knight,LTC,80f56f00-ace2-5368-88a7-9137d669a101
+"Frodo, Adventurous Hobbit",mythic,,"B, W",Legendary Creature — Halfling Scout,LTC,c564f782-dd17-5d66-8fae-1aa002b98c40
+"Galadriel, Elven-Queen",mythic,,"G, U",Legendary Creature — Elf Noble,LTC,e79c7aba-defd-5a18-ab7f-95a3da4b212d
+"Sauron, Lord of the Rings",mythic,,"B, R, U",Legendary Creature — Avatar Horror,LTC,1d51c799-d63e-50d9-9bd3-26598ad17aa3
+"Aragorn, King of Gondor",mythic,,"R, U, W",Legendary Creature — Human Noble,LTC,3ef58d1c-993e-5ade-af6a-aa77edb53fd1
+"Gandalf, Westward Voyager",mythic,,"G, U",Legendary Creature — Avatar Wizard,LTC,418cf5e9-144a-56e4-bddc-685e7db6f820
+"Sam, Loyal Attendant",mythic,,"G, W",Legendary Creature — Halfling Peasant,LTC,0a2891dc-d990-5e03-8c65-9cc0c6eb8413
+"Saruman, the White Hand",mythic,,"B, R, U",Legendary Creature — Avatar Wizard,LTC,1a690da3-210c-52e6-a5ad-64f3b1da8330
+Beregond of the Guard,rare,,W,Legendary Creature — Human Soldier,LTC,c1c499f3-8fec-5ff0-aa57-f64964ebcf3e
+The Gaffer,rare,,W,Legendary Creature — Halfling Peasant,LTC,0c182bcb-0386-5c75-b89b-4bc9a7a4efd0
+"Gilraen, Dúnedain Protector",rare,,W,Legendary Creature — Human Noble,LTC,c4fb87c8-6d43-5925-aaed-f78c06710341
+"Gwaihir, Greatest of the Eagles",rare,,W,Legendary Creature — Bird Noble,LTC,547d3dab-9e9e-5c31-a8ae-f9f3cde01053
+"Denethor, Stone Seer",rare,,U,Legendary Creature — Human Noble,LTC,84efda29-4924-5aac-a724-5fca0e232a3f
+Monstrosity of the Lake,rare,,U,Legendary Creature — Kraken,LTC,8f1cd28f-5f14-5e80-9334-95c5b987cad4
+"Gollum, Obsessed Stalker",rare,,B,Legendary Creature — Halfling Horror,LTC,5897e36b-ff82-5c7c-a89b-d11f42983416
+"Lobelia, Defender of Bag End",rare,,B,Legendary Creature — Halfling Citizen,LTC,8a4eff81-cf41-5db0-9a49-e90e53bf9e96
+"Shelob, Dread Weaver",rare,,B,Legendary Creature — Spider Demon,LTC,48d4d47b-99cc-5621-b071-53051fb48122
+Gimli of the Glittering Caves,rare,,R,Legendary Creature — Dwarf Warrior,LTC,540f06e1-923d-5423-a8c5-8a4200a9a19d
+"Arwen, Weaver of Hope",rare,,G,Legendary Creature — Elf Noble,LTC,afb31e3e-8ab5-5226-9c88-ee06554e821e
+"Haldir, Lórien Lieutenant",rare,,G,Legendary Creature — Elf Soldier,LTC,b200faa0-49de-5a88-89fa-03d2bfe471ae
+Legolas Greenleaf,rare,,G,Legendary Creature — Elf Archer,LTC,bb9c1b7d-4897-5ceb-b826-5f6080071d1e
+The Balrog of Moria,rare,,"B, R",Legendary Creature — Avatar Demon,LTC,9038c159-b413-5c79-aef2-a56bd0203b57
+"Bilbo, Birthday Celebrant",rare,,"B, G, W",Legendary Creature — Halfling Rogue,LTC,63ebc4c6-3f17-5ec7-9f42-d8dcbf73d313
+"Boromir, Gondor's Hope",rare,,"U, W",Legendary Creature — Human Warrior,LTC,c3fb5610-fea1-57e0-93ab-57be6bd113b1
+Círdan the Shipwright,rare,,"G, U",Legendary Creature — Elf Noble,LTC,de23f546-63bf-5ff6-b5a5-769549727279
+Elrond of the White Council,rare,,"G, U",Legendary Creature — Elf Noble,LTC,f80479c6-9a70-5408-840f-9cfb2b4d1b0d
+"Éomer, King of Rohan",rare,,"R, W",Legendary Creature — Human Noble,LTC,319474ac-fc93-58bf-b5a1-1079c0f077bf
+Erestor of the Council,rare,,"G, U",Legendary Creature — Elf Noble,LTC,c4df3397-02bc-527d-a309-9d58eea8ec89
+"Faramir, Steward of Gondor",rare,,"U, W",Legendary Creature — Human Noble,LTC,2a14fe52-eff7-5dda-97a0-6a052b03debb
+Farmer Cotton,rare,,"G, W",Legendary Creature — Halfling Peasant,LTC,ce585779-d496-59f9-8a64-2e930a507538
+"Gríma, Saruman's Footman",rare,,"B, U",Legendary Creature — Human Advisor,LTC,6e9f7dfa-04c7-548f-a88a-a97fba64d8b6
+Lord of the Nazgûl,rare,,"B, U",Legendary Creature — Wraith Noble,LTC,981e4284-13a4-5f6f-85a0-42a4bdaa9c70
+"Merry, Warden of Isengard",rare,,"G, W",Legendary Creature — Halfling Advisor,LTC,025cba12-a4bb-5573-b2ff-373bf56baca5
+"Pippin, Warden of Isengard",rare,,"B, G",Legendary Creature — Halfling Advisor,LTC,1a1667c9-7db9-5b2b-92c5-cbd1ce1206d5
+"Radagast, Wizard of Wilds",rare,,"G, U",Legendary Creature — Avatar Wizard,LTC,0eb1101f-9f1d-5e88-aa90-2b701ce122f3
+"Treebeard, Gracious Host",rare,,"G, W",Legendary Creature — Treefolk,LTC,3f0dddcc-4f08-5383-9223-51889bc40c8b
+"Aragorn, Hornburg Hero",mythic,,"G, R, W",Legendary Creature — Human Soldier,LTC,e58aa969-4197-5df0-94a9-63bc62aabf26
+"Galadriel, Light of Valinor",mythic,,"G, U, W",Legendary Creature — Elf Noble,LTC,44de9b26-1536-5d19-9c6f-7350a6b7e8db
+Gandalf of the Secret Fire,mythic,,"R, U, W",Legendary Creature — Avatar Wizard,LTC,1e8e8d84-9ee1-5ada-bfc9-261dae6521f5
+"Witch-king, Sky Scourge",mythic,,"B, R",Legendary Creature — Wraith Noble,LTC,4059781c-63a4-568a-9f57-7a8f11a0e2c1
+"Kenrith, the Returned King",mythic,,W,Legendary Creature — Human Noble,"ELD, LTC, MUL, PLST",34056201-2898-5a35-8e9a-1079fcba193c
+"Arcades, the Strategist",mythic,,"G, U, W",Legendary Creature — Elder Dragon,"M19, PLST, PM19, TSR",a330f8ef-791b-5790-a00e-52727a54e6d4
+"Vaevictis Asmadi, the Dire",mythic,,"B, G, R",Legendary Creature — Elder Dragon,"M19, PLST, PM19",20012eae-b7fa-53d1-be08-24f37897cbb2
+"Yarok, the Desecrated",mythic,,"B, G, U",Legendary Creature — Elemental Horror,"M20, MUL, PM20",d3d86a4e-255d-52a4-9a6e-04ff2a9f9fa1
+"Thrun, the Last Troll",mythic,,G,Legendary Creature — Troll Shaman,"MBS, PLST",01b9bdce-0e71-5b3b-9224-29e3a45c991d
+"Kataki, War's Wage",rare,,W,Legendary Creature — Spirit,"MD1, MMA, PLST, SOK",8111b7ad-b7f1-5982-a32f-928c4c412c9c
+"Sisay, Weatherlight Captain",rare,,W,Legendary Creature — Human Soldier,"H1R, MH1, PLST, PRM, SLD",7c02548c-e041-5642-852a-942da1d7f5f2
+"Ayula, Queen Among Bears",rare,,G,Legendary Creature — Bear,"H1R, J21, MH1, PIP, PRM",a2ad1ffd-50e3-5205-8f5f-0194a38cf012
+"Leinore, Autumn Sovereign",mythic,,"G, W",Legendary Creature — Human Noble,"MIC, OMIC, PRM",a9471544-1f4e-538c-ac8d-daaf7d9cbc67
+"Wilhelt, the Rotcleaver",mythic,,"B, U",Legendary Creature — Zombie Warrior,"MIC, OMIC",be43bcfa-0c6c-54c0-91c7-858998a59d69
+"Eloise, Nephalia Sleuth",mythic,,"B, U",Legendary Creature — Human Rogue,"MIC, PRM",3ed2467b-a95c-55a8-b168-0201df48a9d4
+"Kyler, Sigardian Emissary",mythic,,"G, W",Legendary Creature — Human Cleric,"MIC, PRM",0f38ba8f-0086-5378-a856-1e1a10028494
+"Kurbis, Harvest Celebrant",rare,,G,Legendary Creature — Treefolk,MIC,6eee23f2-9964-522c-bdfa-47ddd1f68760
+"Lynde, Cheerful Tormentor",mythic,,"B, R, U",Legendary Creature — Human Warlock,MIC,43a117bd-57de-54f9-b97c-cb9f9b5e86cb
+"Sigarda, Heron's Grace",mythic,,"G, W",Legendary Creature — Angel,"MIC, PSOI, SIR, SOI",9b919957-696c-5726-9f65-ba97c999ab69
+"Kaust, Eyes of the Glade",mythic,,"G, R, W",Legendary Creature — Dryad Detective,MKC,735d1016-e419-5dda-adf5-810c707acac9
+"Mirko, Obsessive Theorist",mythic,,"B, U",Legendary Creature — Vampire Detective,MKC,60c2cf99-b7d8-5c2c-9efc-cf027302253c
+"Morska, Undersea Sleuth",mythic,,"G, U, W",Legendary Creature — Vedalken Fish Detective,MKC,939e0998-9798-5712-b699-78f1e4bdac6e
+"Nelly Borca, Impulsive Accuser",mythic,,"R, W",Legendary Creature — Human Detective,MKC,7c3aa4ea-d1ce-5120-b3ce-e0e23f0fa1ef
+"Duskana, the Rage Mother",mythic,,"G, R, W",Legendary Creature — Bear,MKC,cbf4abba-324f-5b9c-b9d9-a032bdb41d56
+"Feather, Radiant Arbiter",mythic,,"R, W",Legendary Creature — Angel,MKC,8e2717d0-081e-5a45-95d9-36cdb230d173
+"Marvo, Deep Operative",mythic,,"B, U",Legendary Creature — Octopus Rogue,MKC,b9033f60-bdd3-5fd6-b291-f35e10524654
+"Sophia, Dogged Detective",mythic,,"G, U, W",Legendary Creature — Human Detective,MKC,b3507fce-a61d-55d3-96d5-dcf12fd3b75e
+"Tesak, Judith's Hellhound",rare,,R,Legendary Creature — Elemental Dog,MKC,6bd48840-655e-50d4-b428-9bfeda423fd7
+"Bennie Bracks, Zoologist",mythic,,W,Legendary Creature — Elf Druid,"MKC, NCC",46f89071-943c-5ab4-9b43-dab30292dbbb
+Loran of the Third Path,rare,,W,Legendary Creature — Human Artificer,"BRO, MKC, PBRO, PRM",37e6f4aa-842c-5194-aec4-13807fd80056
+"Saryth, the Viper's Fang",rare,,G,Legendary Creature — Human Warlock,"DBL, MID, MKC, PMEI, PMID",f6408360-61fc-57b4-a603-425a1a02b5d2
+"Toski, Bearer of Secrets",rare,,G,Legendary Creature — Squirrel,"KHM, MKC, PKHM, PRM",1b49ece4-722e-521c-8afa-cc7fad2b37f2
+"Chulane, Teller of Tales",mythic,,"G, U, W",Legendary Creature — Human Druid,"ELD, MKC, PLST",bbcf96d0-9ba6-5d04-9fb6-7578c6391ff8
+"Koma, Cosmos Serpent",mythic,,"G, U",Legendary Creature — Serpent,"KHM, MKC, PKHM, PRM",98c85411-9084-52ea-a342-d5bdd1287d0f
+"Lonis, Cryptozoologist",rare,,"G, U",Legendary Creature — Snake Elf Scout,"J21, MH2, MKC, PLST, PMH2",531104cb-1d96-5de6-9ba4-dbb94b81374d
+"Delney, Streetwise Lookout",mythic,,W,Legendary Creature — Human Scout,"MKM, PMKM",d6f664ef-967c-5083-993d-ba7426808d4d
+"Massacre Girl, Known Killer",mythic,,B,Legendary Creature — Human Assassin,"MKM, PMKM",7880ad48-a920-500b-9409-83a5498e21e1
+"Krenko, Baron of Tin Street",rare,,R,Legendary Creature — Goblin,"MKM, PMKM",026a8fcb-c5db-50c9-9c9c-13db04701f21
+The Pride of Hull Clade,mythic,,G,Legendary Creature — Crocodile Elk Turtle,"MKM, PMKM",3eed2098-8122-5df1-b6ea-5ddb38670cd8
+"Agrus Kos, Spirit of Justice",mythic,,"R, W",Legendary Creature — Spirit Detective,"MKM, PMKM",c4fab116-558d-5dfe-a352-b9b519deb207
+"Alquist Proft, Master Sleuth",mythic,,"U, W",Legendary Creature — Human Detective,"MKM, PMKM",4eb569cb-d88e-5d76-9e88-70290c840187
+"Anzrag, the Quake-Mole",mythic,,"G, R",Legendary Creature — Mole God,"MKM, PMKM",97ade56c-db8d-533e-8116-390d6f69b0cc
+"Aurelia, the Law Above",rare,,"R, W",Legendary Creature — Angel,"MKM, PMKM",bbe6811b-657b-528e-9ce3-89f405559829
+"Etrata, Deadly Fugitive",mythic,,"B, U",Legendary Creature — Vampire Assassin,"MKM, PMKM",c1a9c58d-e493-5a95-a054-81f228f14621
+"Ezrim, Agency Chief",rare,,"U, W",Legendary Creature — Archon Detective,"MKM, PMKM",2ea1917d-a6b9-59c4-800a-bbcafd90b80b
+"Izoni, Center of the Web",rare,,"B, G",Legendary Creature — Elf Detective,"MKM, PMKM",717dc943-8cb6-523b-a053-eb03c4f06e31
+"Judith, Carnage Connoisseur",rare,,"B, R",Legendary Creature — Human Shaman,"MKM, PMKM",fd5d80f2-adb3-51fd-8fc6-a3452a72a5eb
+"Kellan, Inquisitive Prodigy // Tail the Suspect",rare,4.0,"U, G",Legendary Creature — Human Faerie Detective,"MKM, PMKM",259cdf6a-1ecc-5ad6-8f5b-8d2415f4013d
+"Kylox, Visionary Inventor",rare,,"R, U",Legendary Creature — Viashino Artificer,"MKM, PMKM",d7b8c510-8842-51ac-9424-765bbb0a594a
+"Lazav, Wearer of Faces",rare,,"B, U",Legendary Creature — Shapeshifter Detective,"MKM, PMKM",d077b955-0bff-5433-b0c7-4cc2246df89a
+"Niv-Mizzet, Guildpact",rare,,"B, G, R, U, W",Legendary Creature — Dragon Avatar,"MKM, PMKM",e28826b3-0981-593b-910e-06a0f3261a74
+"Rakdos, Patron of Chaos",mythic,,"B, R",Legendary Creature — Demon,"MKM, PMKM",21c4a58c-3ccf-513c-ac66-9bee91af52e4
+"Teysa, Opulent Oligarch",rare,,"B, W",Legendary Creature — Human Advisor,"MKM, PMKM",3eeffce7-92ea-5be8-af06-33de173d486b
+"Tolsimir, Midnight's Light",rare,,"G, W",Legendary Creature — Elf Scout,"MKM, PMKM",f9d0029e-f3df-50e7-ad05-c5bd1fad56e8
+"Trostani, Three Whispers",mythic,,"G, W",Legendary Creature — Dryad,"MKM, PMKM",ba9c7a26-5a7b-5126-90c7-debe02aa687c
+"Vannifar, Evolved Enigma",mythic,,"G, U",Legendary Creature — Elf Ooze Wizard,"MKM, PMKM",9dab7895-e300-59b7-b6bc-b2bb1418e47b
+"Yarus, Roar of the Old Gods",rare,,"G, R",Legendary Creature — Centaur Druid,"MKM, PMKM",a62100e7-0bd7-52fb-929a-d2912a0411d8
+"Melek, Reforged Researcher",mythic,,"R, U",Legendary Creature — Weird Detective,MKM,7c8de30e-0bae-56f2-bf2c-fc1bc1bf7cb7
+"Tomik, Wielder of Law",mythic,,"B, W",Legendary Creature — Human Advisor,MKM,a4cd2e06-df57-5bf5-9e53-5a36272b53a5
+"Voja, Jaws of the Conclave",mythic,,"G, R, W",Legendary Creature — Wolf,MKM,2b58868e-0dab-5a3e-9218-d94cbfbc4f2d
+"Oona, Queen of the Fae",rare,,"B, U",Legendary Creature — Faerie Wizard,"MMA, SHM, SLD, V11, WOC, ZNC",9c517825-19f5-5962-92b6-5b1213415022
+"Bright-Palm, Soul Awakener",mythic,,"G, R, W",Legendary Creature — Fox Shaman,MOC,cfd9a673-ac65-58b1-ba4c-53d42669e281
+"Brimaz, Blight of Oreskos",mythic,,"B, W",Legendary Creature — Phyrexian Cat,MOC,c28df233-339c-5f23-a1b7-ee05eed45192
+"Gimbal, Gremlin Prodigy",mythic,,"G, R, U",Legendary Creature — Gremlin Artificer,MOC,cd816ce4-d8ce-5c40-b26a-90d1b4994530
+"Kasla, the Broken Halo",mythic,,"R, U, W",Legendary Creature — Angel Ally,MOC,abe02d1e-f17c-5fbd-8e66-a91094e854ee
+Sidar Jabari of Zhalfir,mythic,,"B, U, W",Legendary Creature — Human Knight,MOC,6e616264-ee06-5cd3-9480-1bb93331e6e9
+Elenda and Azor,mythic,,"B, U, W",Legendary Creature — Vampire Knight Sphinx,MOC,e3c27bad-c695-54d8-88c6-49767f789091
+Moira and Teshar,mythic,,"B, W",Legendary Creature — Phyrexian Spirit Bird,MOC,d8caa464-eb96-56ff-84e3-dd3521ad873c
+Rashmi and Ragavan,mythic,,"G, R, U",Legendary Creature — Elf Monkey,MOC,a76037f2-6170-55db-af4f-a9258f413c7a
+Saint Traft and Rem Karolus,mythic,,"R, U, W",Legendary Creature — Spirit Human,MOC,c61d65ba-4e74-5e11-b285-34a0259d0653
+Shalai and Hallar,mythic,,"G, R, W",Legendary Creature — Angel Elf,MOC,fd36161f-e1c8-5c22-87ef-7b90694c72a7
+"Adeline, Resplendent Cathar",rare,,W,Legendary Creature — Human Knight,"DBL, MID, MOC, PMID",2c70d437-cde7-5764-8253-ed5bf99d596f
+Goro-Goro and Satoru,mythic,,"B, R, U",Legendary Creature — Goblin Human,MOC,a24bd0d0-0bca-5970-b12b-6587f7745561
+Katilda and Lier,mythic,,"G, U, W",Legendary Creature — Human,MOC,d6ba7d47-c905-51f9-8dfa-89b38b431566
+Slimefoot and Squee,mythic,,"B, G, R",Legendary Creature — Fungus Goblin,MOC,26e68b95-39a1-5d9d-a444-e998e93cdd1f
+Elesh Norn // The Argent Etchings,mythic,4.0,W,Legendary Creature — Phyrexian Praetor,"MOM, PMOM",cd624224-94be-5a95-8e48-704e79f20a93
+"Invasion of Segovia // Caetus, Sea Tyrant of Segovia",rare,0.0,U,Legendary Creature — Serpent,"MOM, PMOM",ef32858d-de8a-551e-bb10-d6192d08575a
+Jin-Gitaxias // The Great Synthesis,mythic,5.0,U,Legendary Creature — Phyrexian Praetor,"MOM, PMOM",22cadebf-e1f3-5dd2-81e9-1d03df5ba19c
+"Rona, Herald of Invasion // Rona, Tolarian Obliterator",rare,2.0,U,Legendary Creature — Human Wizard,"MOM, PMOM",1a77ddbe-cad0-5218-aaa4-aef1fffd80f0
+"Ayara, Widow of the Realm // Ayara, Furnace Queen",rare,3.0,B,Legendary Creature — Elf Noble,"MOM, PMOM",2a3b4d0a-e5cf-5393-89e0-1ba98f03a416
+"Invasion of Fiora // Marchesa, Resolute Monarch",rare,0.0,B,Legendary Creature — Human Noble,"MOM, PMOM",2eeb81d4-1282-5f31-9dff-76d8ebe172fb
+Invasion of Ulgrotha // Grandmother Ravi Sengir,uncommon,0.0,B,Legendary Creature — Human Wizard,MOM,8d6f011b-0bd6-599e-a9dc-07a16dc43efd
+Sheoldred // The True Scriptures,mythic,5.0,B,Legendary Creature — Phyrexian Praetor,"MOM, PMOM",a08e899a-7d8a-5ee1-932d-e880bcf8ee51
+"Etali, Primal Conqueror // Etali, Primal Sickness",rare,7.0,R,Legendary Creature — Elder Dinosaur,"MOM, PMOM",1bc06916-8692-57f2-a049-5363d143baa6
+Urabrask // The Great Work,mythic,4.0,R,Legendary Creature — Phyrexian Praetor,"MOM, PMOM",a660e82b-e1fa-52f1-8139-0832830ceb9b
+"Invasion of Ikoria // Zilortha, Apex of Ikoria",rare,0.0,G,Legendary Creature — Dinosaur,"MOM, PMOM",1f8a8202-28ff-5337-ba0c-c06acec25162
+"Polukranos Reborn // Polukranos, Engine of Ruin",rare,3.0,G,Legendary Creature — Hydra,"MOM, PMOM",b30f5f2b-979b-529e-9491-ebf7901a8f4e
+Vorinclex // The Grand Evolution,mythic,5.0,G,Legendary Creature — Phyrexian Praetor,"MOM, PMOM",7bd0a200-ca22-525a-9ffb-8f23a28efca0
+Baral and Kari Zev,rare,,"R, U",Legendary Creature — Human,"MOM, PMOM",bb6bd117-b187-5639-ac7b-9e0a1dd0e7c4
+Borborygmos and Fblthp,mythic,,"G, R, U",Legendary Creature — Cyclops Homunculus,"MOM, PMOM",4ecf9f14-5822-5de8-a2dd-5da5402e547b
+Djeru and Hazoret,rare,,"R, W",Legendary Creature — Human God,"MOM, PMOM",500fe84b-f90d-5866-8f58-6548bfc23e45
+Drana and Linvala,rare,,"B, W",Legendary Creature — Vampire Angel,"MOM, PMOM",ec98507f-48c7-53e0-ad56-3402563ea371
+Errant and Giada,rare,,"U, W",Legendary Creature — Human Angel,"MOM, PMOM",ece93143-6cae-5066-ae97-56ec212fcbf5
+Ghalta and Mavren,rare,,"G, W",Legendary Creature — Dinosaur Vampire,"MOM, PMOM",454df7bf-2a50-5d57-9c8a-edefb554ce55
+"Glissa, Herald of Predation",rare,,"B, G",Legendary Creature — Phyrexian Zombie Elf,"MOM, PMOM",0afd0974-f8bd-5cbe-af35-86e4f4558a64
+Hidetsugu and Kairi,rare,,"B, U",Legendary Creature — Ogre Demon Dragon,"MOM, PMOM",41f6ad11-2d47-523a-a78d-5bdabfaed957
+Inga and Esika,rare,,"G, U",Legendary Creature — Human God,"MOM, PMOM",a325d9e9-2b5f-5ada-837a-414caf84e043
+Kogla and Yidaro,rare,,"G, R",Legendary Creature — Ape Dinosaur Turtle,"MOM, PMOM",e1785f10-6812-5f68-99d2-ce60ae10286c
+Kroxa and Kunoros,mythic,,"B, R, W",Legendary Creature — Elder Giant Dog,"MOM, PMOM",b4857586-a288-541e-bd82-29cfea585fa3
+"Omnath, Locus of All",rare,,"B, G, R, U, W",Legendary Creature — Phyrexian Elemental,"MOM, PMOM",77ff02da-e3e9-5df5-a342-994ac785cfad
+"Quintorius, Loremaster",rare,,"R, W",Legendary Creature — Elephant Cleric,"MOM, PMOM",49a2714f-4c62-5c60-a99a-f245f9efb453
+Rankle and Torbran,rare,,"B, R",Legendary Creature — Faerie Dwarf,"MOM, PMOM",cbf79129-a0ca-5613-bedd-19c28e6e2c12
+Thalia and The Gitrog Monster,mythic,,"B, G, W",Legendary Creature — Human Frog Horror,"MOM, PMOM, SCH",4f94928f-8d22-576e-b3f4-3acb832625f0
+Yargle and Multani,rare,,"B, G",Legendary Creature — Frog Spirit Elemental,"MOM, PMOM",0e09aa03-a6fd-5580-a847-6c0888678c67
+Zimone and Dina,mythic,,"B, G, U",Legendary Creature — Human Dryad,"MOM, PMOM",6c7a5c13-35aa-50dc-8632-cd94f35715b3
+Zurgo and Ojutai,mythic,,"R, U, W",Legendary Creature — Orc Dragon,"MOM, PMOM",beaca6ee-7b13-5ada-8cf1-b11413c4cb14
+"Orthion, Hero of Lavabrink",rare,,R,Legendary Creature — Human Soldier,MOM,99116a05-b192-5d55-8658-27563600e1f1
+Surrak and Goreclaw,rare,,G,Legendary Creature — Human Bear,MOM,fd194602-2332-50e9-83d2-ad3babab115d
+"Anhelo, the Painter",mythic,,"B, R, U",Legendary Creature — Vampire Assassin,NCC,df367fed-45ac-5937-8750-ded1ea86b4cc
+"Henzie ""Toolbox"" Torre",mythic,,"B, G, R",Legendary Creature — Devil Rogue,NCC,a142f874-3439-5fa0-aea3-5587391a557b
+"Kamiz, Obscura Oculus",mythic,,"B, U, W",Legendary Creature — Cephalid Rogue,NCC,1f01221a-2f4c-506f-8019-35919ba494cf
+"Kitt Kanto, Mayhem Diva",mythic,,"G, R, W",Legendary Creature — Cat Bard Druid,"NCC, PLST",123e39e7-2a91-59ad-bc01-0a15a7dc4286
+"Perrie, the Pulverizer",mythic,,"G, U, W",Legendary Creature — Rhino Soldier,NCC,ed8bab93-0ed9-5a5b-90f3-9896ffa05b90
+The Beamtown Bullies,mythic,,"B, G, R",Legendary Creature — Ogre Devil Warrior,NCC,8d8f3861-97a2-50d1-89f8-a6325f2c28ec
+"Kros, Defense Contractor",mythic,,"G, U, W",Legendary Creature — Cat Advisor,NCC,86b2856a-d1dc-5e1c-99db-6f6c15cac431
+"Parnesse, the Subtle Brush",mythic,,"B, R, U",Legendary Creature — Vampire Wizard,NCC,4e50655c-e714-50dc-b1cf-8d99e5a571c8
+"Phabine, Boss's Confidant",mythic,,"G, R, W",Legendary Creature — Cat Advisor,"NCC, PLST",3e22d9df-ae01-5eae-bc0b-843412a54fa1
+"Tivit, Seller of Secrets",mythic,,"B, U, W",Legendary Creature — Sphinx Rogue,"NCC, PRM",7dc188c7-9a17-5d1b-adac-d653176de573
+"Mari, the Killing Quill",rare,,B,Legendary Creature — Vampire Assassin,"NCC, OTC",9d4ccf99-fc28-5101-b1a5-fd0f75942b65
+"Vazi, Keen Negotiator",rare,,"B, G, R",Legendary Creature — Human Advisor,NCC,0e9cb2b5-ed2d-5195-b3ce-3daa83d81c55
+"Bess, Soul Nourisher",rare,,"G, W",Legendary Creature — Human Citizen,"NCC, PNCC",55759f3f-070d-5587-83d9-b6da995c8477
+"Denry Klin, Editor in Chief",rare,,"U, W",Legendary Creature — Cat Advisor,"NCC, PNCC",abe11e5d-8668-57e1-8b1d-4b6a77bce878
+"Jolene, the Plunder Queen",rare,,"G, R",Legendary Creature — Human Warrior,"NCC, PNCC",486867cf-8f8b-507e-839c-c1a4a6893dda
+"Oskar, Rubbish Reclaimer",rare,,"B, U",Legendary Creature — Human Wizard,"NCC, PNCC",e5f6d004-aa69-5f28-9d5c-e2067fa10550
+"Syrix, Carrier of the Flame",rare,,"B, R",Legendary Creature — Phoenix,"NCC, PNCC",e59432f9-123b-5041-9548-7d06ae14784e
+"Zurzoth, Chaos Rider",rare,,R,Legendary Creature — Devil,"JMP, NCC",c1c92c34-8f38-5747-b88b-7ce6f76b3612
+"Roalesk, Apex Hybrid",mythic,,"G, U",Legendary Creature — Human Mutant,"NCC, PWAR, WAR",ffdacb18-6224-5e9d-b66a-69f660534ac1
+"Chishiro, the Shattered Blade",mythic,,"G, R",Legendary Creature — Snake Samurai,"NEC, PRM",86197779-7ffc-5195-9ccd-8e84f24fa991
+"Kotori, Pilot Prodigy",mythic,,"U, W",Legendary Creature — Moonfolk Pilot,"NEC, PRM",8d570882-6812-52c4-a7c5-4d3d83735248
+"Kaima, the Fractured Calm",mythic,,"G, R",Legendary Creature — Spirit,NEC,dce1c48e-c246-5a6d-89af-ed0a0c55bc86
+"Katsumasa, the Animator",rare,,U,Legendary Creature — Moonfolk Artificer,NEC,11587693-8dbb-5ee4-8c80-8228e21d64ff
+"Kosei, Penitent Warlord",rare,,G,Legendary Creature — Ogre Samurai,NEC,a8829d4a-2743-57f3-8aed-e1fc5d7c84cc
+Myojin of Blooming Dawn,rare,,W,Legendary Creature — Spirit,"NEC, PRM",a2bf5495-14c1-5e59-9287-2e9371776502
+"Yoshimaru, Ever Faithful",mythic,,W,Legendary Creature — Dog,"NEC, PRM, SLD",173e6228-dfc7-5f5f-b0d1-7786cd94bc83
+Myojin of Cryptic Dreams,rare,,U,Legendary Creature — Spirit,NEC,0a94d7ef-1586-5d83-a079-665a3217b2e2
+Myojin of Grim Betrayal,rare,,B,Legendary Creature — Spirit,NEC,8d2bbe61-2252-5434-b2aa-1de90bbb2975
+Myojin of Roaring Blades,rare,,R,Legendary Creature — Spirit,"NEC, PRM",bd609828-a6e4-598b-9b7f-781f9794d4c6
+Myojin of Towering Might,rare,,G,Legendary Creature — Spirit,"NEC, PRM",ad8e7b68-6f8b-5eb0-8e8d-ff4cabe27d9c
+"Kalitas, Traitor of Ghet",mythic,,B,Legendary Creature — Vampire Warrior,"EA1, OGW, PLST, POGW, SLD",968d91e6-eae1-5dd3-8fda-8d57d9c0d6d8
+"Mina and Denn, Wildborn",rare,,"G, R",Legendary Creature — Elf Ally,"OGW, PLST, POGW, SLD, ZNC",1c8c07db-4ce5-5831-b9a6-934b1916bc6c
+"Ixhel, Scion of Atraxa",mythic,,"B, G, W",Legendary Creature — Phyrexian Angel,ONC,c8f4600c-3840-5d10-8082-8a96adbd6efa
+"Neyali, Suns' Vanguard",mythic,,"R, W",Legendary Creature — Human Rebel,ONC,d54b823e-0321-584e-a43e-0bdf5b97c51d
+"Otharri, Suns' Glory",mythic,,"R, W",Legendary Creature — Phoenix,ONC,f0a194ba-e85b-5fbb-848e-adbad562f894
+"Vishgraz, the Doomhive",mythic,,"B, G, W",Legendary Creature — Phyrexian Insect,ONC,5e319f32-b65a-543f-aef7-252e59d4a0d9
+"Chiss-Goria, Forge Tyrant",mythic,,R,Legendary Creature — Dragon,ONC,780be3d6-0c9c-5dfe-a333-1f9790295dc9
+"Elesh Norn, Mother of Machines",mythic,,W,Legendary Creature — Phyrexian Praetor,"ONE, PONE",0da82b07-e6e4-5679-a50b-fe268459bd0e
+"Kemba, Kha Enduring",rare,,W,Legendary Creature — Cat Cleric,"ONE, PONE",2b4c0cce-eda8-5db9-9677-20914c4701b9
+"Mondrak, Glory Dominus",mythic,,W,Legendary Creature — Phyrexian Horror,"ONE, PONE",9082dc4a-b3d5-599d-80e5-0fd052d19e71
+"Tekuthal, Inquiry Dominus",mythic,,U,Legendary Creature — Phyrexian Horror,"ONE, PONE",35b1c00c-1e44-518d-bf58-0b1b20e12050
+"Drivnod, Carnage Dominus",mythic,,B,Legendary Creature — Phyrexian Horror,"ONE, PONE",6ccea8a0-86e3-5c3d-9d52-a5008f718720
+"Geth, Thane of Contracts",rare,,B,Legendary Creature — Phyrexian Zombie,"ONE, PONE",004caf6d-019f-5213-9300-f2029a5c86e1
+"Karumonix, the Rat King",rare,,B,Legendary Creature — Phyrexian Rat,"ONE, PONE",d5a9a880-dd05-5b87-b4c9-8845b9b91fbb
+"Vraan, Executioner Thane",rare,,B,Legendary Creature — Phyrexian Vampire,"ONE, PONE",3e3cdcaa-0187-5836-bb38-2f1f0662b3e7
+"Slobad, Iron Goblin",rare,,R,Legendary Creature — Phyrexian Goblin Artificer,"ONE, PONE",a4e03a81-6b89-5555-b5a9-c660b99253a1
+"Solphim, Mayhem Dominus",mythic,,R,Legendary Creature — Phyrexian Horror,"ONE, PONE",59bfd687-78f5-55fb-b26c-95c65e5a7f01
+"Thrun, Breaker of Silence",rare,,G,Legendary Creature — Troll Shaman,"ONE, PONE",78f2b9c7-c869-554a-8457-f488cffd041e
+"Zopandrel, Hunger Dominus",mythic,,G,Legendary Creature — Phyrexian Horror,"ONE, PONE",f73401c0-2d8e-5113-8226-736006970735
+"Atraxa, Grand Unifier",mythic,,"B, G, U, W",Legendary Creature — Phyrexian Angel,"ONE, PONE",00110d45-bc2b-58af-936c-7eb69899ec7e
+"Ezuri, Stalker of Spheres",rare,,"G, U",Legendary Creature — Phyrexian Elf Warrior,"ONE, PONE",b5d0a4cd-aa06-5e4a-9960-a0fea2ec2ddf
+Glissa Sunslayer,rare,,"B, G",Legendary Creature — Phyrexian Zombie Elf,"ONE, PONE",91040ff4-32d2-5207-8941-158734ba7991
+"Jor Kadeen, First Goldwarden",rare,,"R, W",Legendary Creature — Human Rebel,"ONE, PONE",9a26a488-ea97-561b-a6f9-29f3d5165a12
+"Kethek, Crucible Goliath",rare,,"B, R",Legendary Creature — Phyrexian Beast,"ONE, PONE",1484ffdc-bdf6-53b6-8852-81947ed34ed1
+"Malcator, Purity Overseer",rare,,"U, W",Legendary Creature — Phyrexian Elephant Wizard,"ONE, PONE",c497e727-e54c-5522-aa0d-eff604a510cd
+"Melira, the Living Cure",rare,,"G, W",Legendary Creature — Human Scout,"ONE, PONE",1e5e358e-534d-5e18-9e5b-b37df31133ab
+"Migloz, Maze Crusher",rare,,"G, R",Legendary Creature — Phyrexian Beast,"ONE, PONE",b72c847f-81f7-508f-bdd8-8580cdd589af
+"Ovika, Enigma Goliath",rare,,"R, U",Legendary Creature — Phyrexian Nightmare,"ONE, PONE",e7d0e9e1-1a1e-58fe-a989-2a20982ff527
+"Ria Ivor, Bane of Bladehold",rare,,"B, W",Legendary Creature — Phyrexian Knight,"ONE, PONE",6f8151d0-1016-5d0c-9ef1-c7ed0d327c99
+"Venser, Corpse Puppet",rare,,"B, U",Legendary Creature — Phyrexian Zombie Wizard,"ONE, PONE",6453e540-883a-5efb-82f3-da93fd7ae064
+Kinzu of the Bleak Coven,rare,,B,Legendary Creature — Phyrexian Vampire,ONE,b1d76fc1-3fe7-5c52-9922-2d8afe783e24
+"Rhuk, Hexgold Nabber",rare,,R,Legendary Creature — Goblin Rebel,ONE,6b8f9233-8f78-5016-88f0-334a08100653
+"Kytheon, Hero of Akros // Gideon, Battle-Forged",mythic,1.0,W,Legendary Creature — Human Soldier,"ORI, PLST, PORI, PS15, V17",afb65926-e03d-53dc-ba00-2370bfe260a1
+"Jace, Vryn's Prodigy // Jace, Telepath Unbound",mythic,2.0,U,Legendary Creature — Human Wizard,"ORI, PLST, PORI, PS15, V17",d3c62c41-549f-50f1-bc7c-7613df49367c
+"Liliana, Heretical Healer // Liliana, Defiant Necromancer",mythic,3.0,B,Legendary Creature — Human Cleric,"CC2, ORI, PLST, PORI, PS15, V17",63ea84ce-bca0-5eb0-861d-b82e2aaf92de
+"Chandra, Fire of Kaladesh // Chandra, Roaring Flame",mythic,3.0,R,Legendary Creature — Human Shaman,"ORI, PLST, PORI, PS15, V17",86f3ab5a-ab07-57c5-9388-f04eabdfdaf1
+"Nissa, Vastwood Seer // Nissa, Sage Animist",mythic,3.0,G,Legendary Creature — Elf Scout,"ORI, PLST, PORI, PS15, V17",cc3b7e29-d14d-59dc-92ea-33f825d407cc
+"Kamber, the Plunderer",rare,,B,Legendary Creature — Vampire Rogue,"OTC, PRM, VOC",2da968b9-fe65-561c-92da-bd3d762b6786
+Massacre Girl,rare,,B,Legendary Creature — Human Assassin,"OTC, PWAR, RVR, SLD, WAR",3baf3775-cdbf-5925-bcea-9c63c843c8d2
+"Nashi, Moon Sage's Scion",mythic,,B,Legendary Creature — Rat Ninja,"NEO, OTC, PLST, PNEO, PRM, SLC",10eabcbe-641b-5487-b754-7e65f1b627a7
+"Laurine, the Diversion",rare,,R,Legendary Creature — Human Rogue,"OTC, VOC",6bbaf488-32d2-5ec4-89f9-9fe3f9479ea2
+"Kaza, Roil Chaser",rare,,"R, U",Legendary Creature — Human Wizard,"OTC, PRM, PZNR, ZNR",20f997b5-9f7e-531b-9c4e-79a6e16236f1
+"Fortune, Loyal Steed",rare,,W,Legendary Creature — Beast Mount,"OTJ, POTJ",d462cafd-04a2-5c14-aeb5-544af545425e
+"Fblthp, Lost on the Range",rare,,U,Legendary Creature — Homunculus,"OTJ, POTJ",75c7b05a-b151-576a-93a9-58af72d42fb1
+"Geralf, the Fleshwright",mythic,,U,Legendary Creature — Human Warlock,"OTJ, POTJ",53a66eef-e857-53da-b23c-93a9926f8a9e
+"Gisa, the Hellraiser",mythic,,B,Legendary Creature — Human Warlock,"OTJ, POTJ",da46f56f-f4a8-58de-8a30-f6bd1de92add
+"Kaervek, the Punisher",rare,,B,Legendary Creature — Human Warlock,"OTJ, POTJ",dd1288f4-e995-5448-b1c2-6ce723204fb3
+"Tinybones, the Pickpocket",mythic,,B,Legendary Creature — Skeleton Rogue,"OTJ, POTJ",d9ddb794-3cb2-5a53-97d2-20375d1c607d
+"Vadmir, New Blood",rare,,B,Legendary Creature — Vampire Rogue,"OTJ, POTJ",a992f77b-6dbf-5d0d-a328-87491eb2318b
+"Calamity, Galloping Inferno",rare,,R,Legendary Creature — Horse Mount,"OTJ, POTJ",b0975e45-5440-59ea-bb91-0e655e67b973
+"Magda, the Hoardmaster",rare,,R,Legendary Creature — Dwarf Berserker,"OTJ, POTJ",62c7bde6-8890-5a3d-ba91-71a3376b6a3b
+"Bristly Bill, Spine Sower",mythic,,G,Legendary Creature — Plant Druid,"OTJ, POTJ",07c179ee-cccc-5809-a585-ec77cfced29a
+Akul the Unrepentant,rare,,"B, R",Legendary Creature — Scorpion Dragon Rogue,"OTJ, POTJ",2a1e3689-8b05-5fda-8d3a-64e5c51f7267
+"Annie Flash, the Veteran",mythic,,"G, R, W",Legendary Creature — Human Rogue,"OTJ, POTJ",63c69341-9c62-550f-994e-8ec0ab0c0c46
+Baron Bertram Graywater,uncommon,,"B, W",Legendary Creature — Vampire Noble,OTJ,bc227a25-bed3-574d-b50f-862b0a396830
+"Bonny Pall, Clearcutter",rare,,"G, U",Legendary Creature — Giant Scout,"OTJ, POTJ",414229fc-4402-5f91-b6aa-4bbc2d43cf68
+"Breeches, the Blastmaker",rare,,"R, U",Legendary Creature — Goblin Pirate,"OTJ, POTJ",3b568273-ccce-57b3-b080-4966a1884063
+"Bruse Tarl, Roving Rancher",rare,,"R, W",Legendary Creature — Human Warrior,"OTJ, POTJ",42586fcf-de1a-5e18-aeea-f04c5c83f8c1
+"Doc Aurlock, Grizzled Genius",uncommon,,"G, U",Legendary Creature — Bear Druid,OTJ,1a832995-af20-54e2-a5a6-232da74b1fdb
+"Eriette, the Beguiler",rare,,"B, U, W",Legendary Creature — Human Warlock,"OTJ, POTJ",e65d431e-8163-5977-852a-fb22ed6e59d8
+"Ertha Jo, Frontier Mentor",uncommon,,"R, W",Legendary Creature — Kor Advisor,OTJ,c10612eb-65e3-5e31-aa3d-ab9353787d55
+"Ghired, Mirror of the Wilds",mythic,,"G, R, W",Legendary Creature — Human Shaman,"OTJ, POTJ",7801e062-e505-5840-bf11-84555d5d8879
+"The Gitrog, Ravenous Ride",mythic,,"B, G",Legendary Creature — Frog Horror Mount,"OTJ, POTJ",77b1a414-68da-5ff7-a7ec-fe26d2ffd979
+Honest Rutstein,uncommon,,"B, G",Legendary Creature — Human Warlock,OTJ,505b089d-cd9c-5392-a4eb-cc7c3b8a3202
+"Jem Lightfoote, Sky Explorer",uncommon,,"U, W",Legendary Creature — Human Scout,OTJ,03a6d69c-0a5c-5421-9458-8e03348e0b35
+"Jolene, Plundering Pugilist",uncommon,,"G, R",Legendary Creature — Human Mercenary,OTJ,161475f1-44d1-5321-aeea-fcd7fce6dceb
+"Kambal, Profiteering Mayor",rare,,"B, W",Legendary Creature — Human Advisor,"OTJ, POTJ",b3b8a077-0d38-59e7-a1ca-b3d1fa9256a1
+"Kellan, the Kid",mythic,,"G, U, W",Legendary Creature — Human Faerie Rogue,"OTJ, POTJ",83d76712-309f-532d-bbd6-d92a3b0870d4
+"Kraum, Violent Cacophony",uncommon,,"R, U",Legendary Creature — Zombie Horror,OTJ,c47f19d2-13ed-52ec-8140-ca3db5ce6c70
+Laughing Jasper Flint,rare,,"B, R",Legendary Creature — Lizard Rogue,"OTJ, POTJ",7d3a9a2d-ce43-5846-a922-4fc69d2a5c43
+"Lazav, Familiar Stranger",uncommon,,"B, U",Legendary Creature — Shapeshifter,OTJ,53743464-3b9a-5286-9c1b-d9e5a93cd875
+"Lilah, Undefeated Slickshot",rare,,"R, U",Legendary Creature — Human Rogue,"OTJ, POTJ",4516f6eb-d3da-597e-bb9c-948406e53c56
+"Malcolm, the Eyes",rare,,"R, U",Legendary Creature — Siren Pirate,"OTJ, POTJ",d6788c4f-63fa-5749-aace-bd5cb8f4a60e
+"Marchesa, Dealer of Death",rare,,"B, R, U",Legendary Creature — Human Rogue,"OTJ, POTJ",d3dadd18-1576-5f7f-8b1e-d263e56b1f6b
+"Miriam, Herd Whisperer",uncommon,,"G, W",Legendary Creature — Human Druid,OTJ,55cf8d51-fc20-5731-adfb-05cf55748e82
+"Obeka, Splitter of Seconds",rare,,"B, R, U",Legendary Creature — Ogre Warlock,"OTJ, POTJ",e98d734c-0e80-5486-b91f-fea9b0c0e47c
+"Rakdos, the Muscle",mythic,,"B, R",Legendary Creature — Demon Mercenary,"OTJ, POTJ",2d69fb61-7549-5cde-8cce-c2b3e05d70d2
+Riku of Many Paths,rare,,"G, R, U",Legendary Creature — Human Wizard,"OTJ, POTJ",901775e5-e3cf-524c-93d8-0ec0550876fa
+"Roxanne, Starfall Savant",rare,,"G, R",Legendary Creature — Cat Druid,"OTJ, POTJ",44052fb9-2122-547b-bab9-dfe6c33ed965
+"Satoru, the Infiltrator",rare,,"B, U",Legendary Creature — Human Ninja Rogue,"OTJ, POTJ",f4b24a37-9628-5c04-9bad-94862992ef90
+"Selvala, Eager Trailblazer",mythic,,"G, W",Legendary Creature — Elf Scout,"OTJ, POTJ",f193c0f0-b9d8-5ab1-bd1a-953085e099dd
+"Taii Wakeen, Perfect Shot",rare,,"R, W",Legendary Creature — Human Mercenary,"OTJ, POTJ",5581b583-952c-5d2f-b68f-e58bbd279980
+"Vial Smasher, Gleeful Grenadier",uncommon,,"B, R",Legendary Creature — Goblin Mercenary,OTJ,ac80a80a-0f02-5e49-9c23-644f5a87f5f7
+"Vraska, the Silencer",mythic,,"B, G",Legendary Creature — Gorgon Assassin,"OTJ, POTJ",9f774fd5-aef8-5f4b-b9cb-f4bb280864ae
+"Wylie Duke, Atiin Hero",rare,,"G, W",Legendary Creature — Human Ranger,"OTJ, POTJ",698e6144-a907-577d-babc-9511c405e2d8
+"Jaya Ballard, Task Mage",rare,,R,Legendary Creature — Human Spellshaper,"PD2, PLST, PMPS08, PRES, PRM, TSP, TSR",96eae1c3-003b-5975-b76a-88eefa38d920
+"Caesar, Legion's Emperor",mythic,,"B, R, W",Legendary Creature — Human Soldier,PIP,759ca3de-1758-59a2-bad8-d65070984712
+"Dogmeat, Ever Loyal",mythic,,"G, R, W",Legendary Creature — Dog,PIP,0ec1782b-4274-5d6e-9b22-4fb3fb53d6ba
+Dr. Madison Li,mythic,,"R, U, W",Legendary Creature — Human Scientist,PIP,d7bf6ff2-0a77-5640-a8ce-c649c8a2b8c2
+The Wise Mothman,mythic,,"B, G, U",Legendary Creature — Insect Mutant,PIP,c9e712fb-2e1c-572e-be7a-815bf9582581
+"Preston Garvey, Minuteman",mythic,,"G, R, W",Legendary Creature — Human Soldier,PIP,ba075f2f-9db0-52e1-bc3f-e62533ca58e9
+"Aradesh, the Founder",rare,,W,Legendary Creature — Human Soldier,PIP,9745cf29-661a-597d-be64-0a969e0f91ca
+Commander Sofia Daguerre,uncommon,,W,Legendary Creature — Human Pilot,PIP,70ddf5ea-2ddc-503b-ba47-72130e232129
+Overseer of Vault 76,rare,,W,Legendary Creature — Human Advisor,PIP,57c28f22-e294-5996-b0a7-8d2d507a092e
+"Sierra, Nuka's Biggest Fan",rare,,W,Legendary Creature — Human Citizen,PIP,207a0ca1-2604-5796-800b-6688c51cd1bc
+"James, Wandering Dad // Follow Him",rare,3.0,U,Legendary Creature — Human Scientist,PIP,a3a240da-ef0d-5ce3-8ef8-08da21b7e172
+"Jason Bright, Glowing Prophet",rare,,U,Legendary Creature — Zombie Mutant Advisor,PIP,6e0c58c1-b068-5a63-ae3f-aa769e0d834f
+"Piper Wright, Publick Reporter",rare,,U,Legendary Creature — Human Detective,PIP,79df93fd-5d37-5252-8d40-fd82cc3adb8f
+"Butch DeLoria, Tunnel Snake",uncommon,,B,Legendary Creature — Human Rogue,PIP,452d0964-24b2-5f30-bdaf-a5bcd76ab925
+"Hancock, Ghoulish Mayor",rare,,B,Legendary Creature — Zombie Mutant Advisor,PIP,3134aec0-d496-55b4-bbed-06ef8835f294
+"Duchess, Wayward Tavernkeep",rare,,R,Legendary Creature — Human Citizen,PIP,a01791c9-2cde-55ed-9ff6-b07e44a3c54f
+Ian the Reckless,uncommon,,R,Legendary Creature — Human Warrior,PIP,2eccbe20-3abb-5038-bbb1-06acb4827beb
+"Veronica, Dissident Scribe",rare,,R,Legendary Creature — Human Artificer Rogue,PIP,aa1b01e6-c52a-521d-9bc1-04fb3dbce329
+"Harold and Bob, First Numens",rare,,G,Legendary Creature — Treefolk Mutant,PIP,30ac44df-ca1d-5dbd-8110-b9a34105e479
+"Lily Bowen, Raging Grandma",rare,,G,Legendary Creature — Mutant Warrior,PIP,22fdfb42-6454-5e17-b3ce-0922074d9976
+"Strong, the Brutish Thespian",rare,,G,Legendary Creature — Mutant Berserker,PIP,01a9dfa4-d955-58fd-8910-ffad27b336aa
+Agent Frank Horrigan,rare,,"B, G",Legendary Creature — Mutant Warrior,PIP,ecfef169-295a-5ab3-8691-f54ed70af086
+Arcade Gannon,rare,,"U, W",Legendary Creature — Human Doctor,PIP,82bdaa14-8585-5719-a41f-8589e2632799
+"Cait, Cage Brawler",rare,,"G, R",Legendary Creature — Human Warrior,PIP,098d34ae-bbb3-57b8-bf50-578b7035f5ef
+"Cass, Hand of Vengeance",rare,,"R, W",Legendary Creature — Human Ranger,PIP,099ddf6b-01cd-5490-91b3-02cad5feb72a
+Colonel Autumn,rare,,"B, W",Legendary Creature — Human Soldier,PIP,d81d105a-9ef9-52cc-9ecd-d4b45b25a977
+"Craig Boone, Novac Guard",uncommon,,"R, W",Legendary Creature — Human Soldier,PIP,c44308cb-3703-5d7b-ad36-08fdaf92f3fc
+"Desdemona, Freedom's Edge",rare,,"R, W",Legendary Creature — Human Rogue,PIP,2eebb8d0-85ea-5544-a634-4eb9b5858005
+Elder Arthur Maxson,rare,,"B, W",Legendary Creature — Human Knight,PIP,13b11a52-aace-58bf-8d41-2d90a912aece
+Elder Owyn Lyons,uncommon,,"U, W",Legendary Creature — Human Knight,PIP,a8daf465-ed63-5a7d-a940-2b113fe4896e
+"Kellogg, Dangerous Mind",rare,,"B, R",Legendary Creature — Human Mercenary,PIP,311715ff-3b70-5c40-9ded-d861e3384ed9
+"Legate Lanius, Caesar's Ace",uncommon,,"B, R",Legendary Creature — Human Soldier,PIP,c934c9a1-71b8-555b-9ba4-5f2422d5f48b
+"MacCready, Lamplight Mayor",rare,,"B, W",Legendary Creature — Human Advisor,PIP,ef83c492-995b-5e62-9616-2924afa5556b
+"Marcus, Mutant Mayor",rare,,"G, U",Legendary Creature — Mutant Advisor,PIP,c4326539-9a13-5816-89e9-0241995a17de
+"Moira Brown, Guide Author",rare,,"R, W",Legendary Creature — Human Citizen,PIP,84a17e53-29ce-5219-b87e-365daea13a53
+Paladin Elizabeth Taggerdy,rare,,"R, W",Legendary Creature — Human Knight,PIP,502b42ab-7796-5b6c-a929-52bf8aa51a17
+"Raul, Trouble Shooter",uncommon,,"B, U",Legendary Creature — Zombie Mutant Rogue,PIP,08bd0415-c9e9-5a1f-9eb7-a7095c35d9ca
+"Red Death, Shipwrecker",rare,,"R, U",Legendary Creature — Crab Mutant,PIP,ac551d1f-cfdd-51a3-af42-ec0c85ba07b7
+Sentinel Sarah Lyons,rare,,"R, W",Legendary Creature — Human Knight,PIP,0a6bbaf0-ce9b-5346-9556-c4c06880306c
+"Shaun, Father of Synths",rare,,"R, U",Legendary Creature — Human Scientist,PIP,f1accae0-74fd-5e3e-9c66-aaf64d13ea49
+"Three Dog, Galaxy News DJ",rare,,"R, W",Legendary Creature — Human Bard,PIP,02a2319c-6224-51e8-bb37-fb1075ac116a
+Mirri the Cursed,rare,,B,Legendary Creature - Vampire Cat,"PLC, PLST, TSR",438016fc-733d-5692-b94b-f62483f786e9
+"Lavinia, Azorius Renegade",rare,,"U, W",Legendary Creature — Human Soldier,"PRM, PRNA, RNA, RVR, TSR",5a7d18d9-7625-5f2d-a932-909741023ac7
+"Tomik, Distinguished Advokist",rare,,W,Legendary Creature — Human Advisor,"PWAR, RVR, WAR",f426d0db-3313-5b3e-b772-6be8f56685e1
+Bruvac the Grandiloquent,mythic,,U,Legendary Creature — Human Advisor,"JMP, PLST, RVR",14982be3-e03e-51a2-8ee1-6cb74da07173
+"Fblthp, the Lost",rare,,U,Legendary Creature — Homunculus,"PLST, PWAR, RVR, SLD, TSR, WAR",0893003b-e9d5-54ee-83cc-98b5343fa1e2
+"Ilharg, the Raze-Boar",mythic,,R,Legendary Creature — Boar God,"PWAR, RVR, SLD, WAR",81d7a12c-ef85-5459-a9ab-f99255b604b8
+Niv-Mizzet Reborn,mythic,,"B, G, R, U, W",Legendary Creature — Dragon Avatar,"MUL, PLST, PWAR, RVR, WAR",eda0dc88-fb38-5d9c-9772-60416c47dcb4
+"Sygg, River Cutthroat",rare,,"B, U",Legendary Creature - Merfolk Rogue,"PLST, SHM, ZNC",8a45b4b4-890d-5f47-b357-244b5bb66766
+"Olivia, Mobilized for War",mythic,,"B, R",Legendary Creature — Vampire Knight,"PLST, PSOI, SIR, SLD, SOI",2e7faa77-7ca4-5038-a45c-33bb127399ab
+"Giada, Font of Hope",rare,,W,Legendary Creature — Angel,"PLST, PSNC, PWCS, SNC",71b42f72-5bfb-5d4f-8563-3e3b7f0c282f
+The Gitrog Monster,mythic,,"B, G",Legendary Creature — Frog Horror,"PANA, PJ21, PLST, PSOI, SLD, SOI",02b2a314-ab60-5dbe-ba6d-1a7959d2ea8e
+Celestial Kirin,rare,,W,Legendary Creature - Kirin Spirit,"PLST, PSAL, SOK",b11cd2ab-acc0-58ae-b8e6-a1e6ca8726af
+"Rune-Tail, Kitsune Ascendant // Rune-Tail's Essence",rare,,W,Legendary Creature - Fox Monk,"PLST, SOK",b0fbb04d-0861-57b6-858c-0cc09ab65afe
+Sakashima the Impostor,rare,,U,Legendary Creature - Human Rogue,"PLST, SLD, SOK",f77bd69d-3a33-59d8-b9e4-ca8d89f6fe9c
+"Reki, the History of Kamigawa",rare,,G,Legendary Creature - Human Shaman,"PLST, SLD, SOK",531f8101-00c4-542b-860b-19acd2906eaf
+"Alirios, Enraptured",uncommon,,U,Legendary Creature — Human,THB,af413de0-1e2f-5eb7-97b6-cdf4f7b1993b
+"Atris, Oracle of Half-Truths",rare,,"B, U",Legendary Creature — Human Advisor,"MUL, PRM, PTHB, THB",dfdef194-7a62-5626-8924-40a25c155755
+"Dalakos, Crafter of Wonders",rare,,"R, U",Legendary Creature — Merfolk Artificer,"PRM, PTHB, THB",f793d4f3-f6c9-5bc2-99c6-53a15f0cf5ca
+Eutropia the Twice-Favored,uncommon,,"G, U",Legendary Creature — Human Wizard,"PLST, THB",21fb030f-30e5-57ed-9680-b99f7279c540
+Gallia of the Endless Dance,rare,,"G, R",Legendary Creature — Satyr,"PRM, PTHB, THB",23688b6d-341f-5fb6-84b2-e6979d78cac6
+Haktos the Unscarred,rare,,"R, W",Legendary Creature — Human Warrior,"PRM, PTHB, THB",df3d4450-0921-5d5b-9cc7-1717bcb031db
+"Kroxa, Titan of Death's Hunger",mythic,,"B, R",Legendary Creature — Elder Giant,"MUL, PRM, PTHB, SLD, THB",bfeed138-46d7-5ff0-9717-962e331c22ee
+"Kunoros, Hound of Athreos",rare,,"B, W",Legendary Creature — Hound,"PRM, PTHB, THB",939cfd55-3be9-58f1-a807-c71b0b222914
+"Polukranos, Unchained",mythic,,"B, G",Legendary Creature — Zombie Hydra,"PRM, PTHB, THB",e5338395-ff6e-5959-b163-9c5842371ddc
+"Siona, Captain of the Pyleas",uncommon,,"G, W",Legendary Creature — Human Soldier,"THB, WOC",b20c0aaf-5b35-5d82-8dad-0f0aa6e435eb
+"Uro, Titan of Nature's Wrath",mythic,,"G, U",Legendary Creature — Elder Giant,"PLST, PRM, PTHB, SLD, THB",0b70248d-ff8a-555b-b003-4146ebe4370a
+Starke of Rath,mythic,,R,Legendary Creature — Human Rogue,"PLST, TMP, TPR",3a440f87-59f0-5d0d-bca9-e12ba0ca40a1
+Norin the Wary,rare,,R,Legendary Creature - Human Warrior,"PLST, TSP",ff3749ae-8091-5bdc-8d9a-b89eb72a88bd
+"Ith, High Arcanist",rare,,"U, W",Legendary Creature - Human Wizard,"PLST, TSP, TSR",a93c28ea-df82-567b-8179-273d827caf57
+"Mishra, Artificer Prodigy",rare,,"B, R, U",Legendary Creature - Human Artificer,"PLST, TSP",8aaabb76-19e5-5446-9927-ee74b0d55513
+"Millicent, Restless Revenant",mythic,,"U, W",Legendary Creature — Spirit Soldier,"OVOC, PRM, VOC",226ae799-cdd7-56a2-9146-b8c64bd6dbe6
+"Strefan, Maurer Progenitor",mythic,,"B, R",Legendary Creature — Vampire Noble,"OVOC, VOC",f5c3b227-20aa-559c-b4de-a3d1844f551c
+"Donal, Herald of Wings",mythic,,U,Legendary Creature — Human Wizard,VOC,1bc09568-12dc-5093-827d-d226ab726725
+"Rhoda, Geist Avenger",rare,,W,Legendary Creature — Human Soldier,"PRM, VOC",2b166593-1cab-5bbf-b570-4c27b4f84c79
+"Timin, Youthful Geist",rare,,U,Legendary Creature — Spirit,"PRM, VOC",d5d365d0-9026-5386-be59-5d8fd9f5caa3
+"Umbris, Fear Manifest",mythic,,"B, U",Legendary Creature — Nightmare Horror,VOC,f45b24b3-63a2-5e86-a936-b21a8d7d2166
+"Tegwyll, Duke of Splendor",mythic,,"B, U",Legendary Creature — Faerie Noble,WOC,44050a5a-73c9-5fba-9015-73b8def08301
+Ellivere of the Wild Court,mythic,,"G, W",Legendary Creature — Human Knight,WOC,f2347475-c4ba-55b8-a691-74423976e518
+"Alela, Cunning Conqueror",mythic,,"B, U",Legendary Creature — Faerie Warlock,WOC,f15e8466-058b-5801-b19b-3c07d826297e
+"Gylwain, Casting Director",mythic,,"G, W",Legendary Creature — Human Bard,WOC,9942fa0c-6aec-5b70-9b89-b8876768d694
+"Korvold, Gleeful Glutton",mythic,,"B, G, R",Legendary Creature — Dragon Noble,WOC,1ff81355-401b-54c9-b5e5-13063485613d
+"Brenard, Ginger Sculptor",mythic,,"G, U, W",Legendary Creature — Human Artificer,WOC,1ec15956-8502-5f53-ad3f-e9bfbec6849e
+"Anowon, the Ruin Thief",mythic,,"B, U",Legendary Creature — Vampire Rogue,"PRM, SLD, ZNC",9d1768ff-93b1-54cb-be0f-849302a01aba
+"Obuun, Mul Daya Ancestor",mythic,,"G, R, W",Legendary Creature — Elf Spirit,"PRM, ZNC",fa6f8492-7051-5ec0-bd9f-a6dbf5a438d7

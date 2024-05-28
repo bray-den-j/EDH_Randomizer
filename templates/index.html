@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Test</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>EDH Randomizer</h1>
+    <form action="/randomizer" method="post">
+        <button type="submit">Randomize!</button>
+    </form>
+</body>
+</html>
